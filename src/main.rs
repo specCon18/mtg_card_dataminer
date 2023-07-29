@@ -1,78 +1,73 @@
 use reqwest::Error;
 use serde::{Deserialize, Serialize};
-use std::collections::HashMap;
-use std::fs::File;
-use std::io::BufReader;
+use std::{collections::HashMap, fs::File, fs::OpenOptions, io::BufReader};
 use tokio::time::Duration;
 
-#[derive(Serialize, Deserialize, Debug)]
+/// A struct to represent a Card returned from the API.
+#[derive(Serialize, Deserialize, Debug, Clone)]
 struct Card {
+    /// The name of the card.
     name: String,
+    /// The prices of the card in various formats.
     prices: HashMap<String, Option<String>>,
 }
 
-#[derive(Debug, Deserialize)]
+/// A struct to represent a Card from the local JSON file.
+#[derive(Serialize, Deserialize, Debug, Clone)]
 struct CardFromFile {
+    /// The name of the card.
     name: String,
+    /// The count of this card.
     count: usize,
+    /// The value of this card in USD.
+    usd_value: Option<String>,
 }
 
-#[derive(Debug, Deserialize)]
+/// A struct to represent a collection of Cards from the local JSON file.
+#[derive(Serialize, Deserialize, Debug)]
 struct CardFile {
+    /// The list of cards.
     cards: Vec<CardFromFile>,
 }
 
+/// The main function.
+///
+/// This function reads a local JSON file of cards, sends an API request for each card to get the current price in USD,
+/// compares the fetched price with the stored price in the local file, and updates the file if there is any difference.
+///
+/// Note: There is a delay of 100ms between each API request as per the API rules.
 #[tokio::main]
 async fn main() -> Result<(), Error> {
     let file = File::open("cards.json").unwrap();
     let reader = BufReader::new(file);
-    let cards_data: CardFile = serde_json::from_reader(reader).unwrap();
+    let mut cards_data: CardFile = serde_json::from_reader(reader).unwrap();
 
-    let mut total_card_value_usd = 0.0;
-
-    for card_from_file in &cards_data.cards {
-        println!("Card: {}, Count: {}", card_from_file.name, card_from_file.count);
-
+    for card_from_file in &mut cards_data.cards {
         let request_url = format!(
             "https://api.scryfall.com/cards/named?exact={}",
             card_from_file.name
         );
         let response = reqwest::get(&request_url).await?;
         let card: Card = response.json().await?;
-        match card.prices.get("usd") {
-            Some(price) => match price {
-                Some(price_str) => {
-                    match price_str.parse::<f64>() {
-                        Ok(price) => {
-                            total_card_value_usd += price * card_from_file.count as f64;
-                            println!(
-                                "Card Name: {}, Price in USD: {}, Count: {}",
-                                card.name, price_str, card_from_file.count
-                            );
-                        }
-                        Err(_) => {
-                            println!(
-                                "Card Name: {}, Price in USD is not a valid number: {}, Count: {}",
-                                card.name, price_str, card_from_file.count
-                            );
-                        }
-                    }
+
+        if let Some(price) = card.prices.get("usd") {
+            if let Some(price_str) = price {
+                if card_from_file.usd_value.as_ref() != Some(price_str) {
+                    card_from_file.usd_value = Some(price_str.clone());
                 }
-                None => println!(
-                    "Card Name: {}, No price available in USD, Count: {}",
-                    card.name, card_from_file.count
-                ),
-            },
-            None => println!(
-                "Card Name: {}, No price information available, Count: {}",
-                card.name, card_from_file.count
-            ),
+            }
         }
 
-        tokio::time::sleep(Duration::from_millis(100)).await; // Adding a delay of 100ms
+        tokio::time::sleep(Duration::from_millis(100)).await;
     }
 
-    println!("Total value of all cards in USD: {}", total_card_value_usd);
-    
+    let file = OpenOptions::new()
+        .write(true)
+        .truncate(true)
+        .open("cards.json")
+        .unwrap();
+
+    serde_json::to_writer_pretty(file, &cards_data).unwrap();
+
     Ok(())
 }
