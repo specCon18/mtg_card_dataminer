@@ -1,6 +1,6 @@
 use reqwest::Error;
 use serde::{Deserialize, Serialize};
-use std::{collections::HashMap, fs::File, fs::OpenOptions, io::BufReader};
+use std::{collections::HashMap, env, fs::File, fs::OpenOptions, io::BufReader};
 use tokio::time::Duration;
 
 /// A struct to represent a Card returned from the API.
@@ -38,7 +38,14 @@ struct CardFile {
 /// Note: There is a delay of 100ms between each API request as per the API rules.
 #[tokio::main]
 async fn main() -> Result<(), Error> {
-    let file = File::open("cards.json").unwrap();
+    let args: Vec<String> = env::args().collect();
+    if args.len() < 2 {
+        eprintln!("Please provide the path to the JSON file as an argument.");
+        return Ok(());
+    }
+
+    let file_path = &args[1];
+    let file = File::open(file_path).unwrap();
     let reader = BufReader::new(file);
     let mut cards_data: CardFile = serde_json::from_reader(reader).unwrap();
 
@@ -64,7 +71,7 @@ async fn main() -> Result<(), Error> {
     let file = OpenOptions::new()
         .write(true)
         .truncate(true)
-        .open("cards.json")
+        .open(file_path)
         .unwrap();
 
     serde_json::to_writer_pretty(file, &cards_data).unwrap();
