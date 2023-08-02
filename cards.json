@@ -1,99 +1,214 @@
 {
   "cards": [
     {
-      "name": "castle vantress",
+      "name": "noble hierarch",
       "count": 2,
-      "usd_value": "0.43"
+      "usd_value": "9.93"
     },
     {
-      "name": "snow-covered island",
+      "name": "wound reflection",
       "count": 1,
-      "usd_value": "0.80"
+      "usd_value": "9.42"
     },
     {
-      "name": "beacon of tomorrows",
+      "name": "ancient gold dragon",
       "count": 1,
-      "usd_value": "3.26"
+      "usd_value": "8.82"
     },
     {
-      "name": "oran-rief the vastwood",
+      "name": "farewell",
       "count": 1,
-      "usd_value": "0.56"
+      "usd_value": "8.73"
     },
     {
-      "name": "mosswort bridge",
+      "name": "shark typhoon",
       "count": 1,
-      "usd_value": "0.26"
+      "usd_value": "8.72"
     },
     {
-      "name": "snow-covered forest",
+      "name": "conjurer's closet",
       "count": 1,
-      "usd_value": "0.68"
+      "usd_value": "8.49"
     },
     {
-      "name": "castle embereth",
+      "name": "sneak attack",
       "count": 1,
-      "usd_value": "0.19"
+      "usd_value": "8.14"
     },
     {
-      "name": "sokenzan, crucible of defiance",
+      "name": "serpent of yawning depths",
       "count": 1,
-      "usd_value": "2.83"
+      "usd_value": "7.92"
     },
     {
-      "name": "spinerock knoll",
+      "name": "legion loyalist",
       "count": 1,
-      "usd_value": "0.18"
-    },
-    {
-      "name": "yavimaya coast",
-      "count": 1,
-      "usd_value": "1.16"
-    },
-    {
-      "name": "temple of deceit",
-      "count": 1,
-      "usd_value": "0.16"
-    },
-    {
-      "name": "plaza of harmony",
-      "count": 1,
-      "usd_value": "0.75"
-    },
-    {
-      "name": "vault of champions",
-      "count": 1,
-      "usd_value": "11.76"
-    },
-    {
-      "name": "overgrown farmland",
-      "count": 1,
-      "usd_value": "4.73"
-    },
-    {
-      "name": "deserted beach",
-      "count": 1,
-      "usd_value": "6.07"
-    },
-    {
-      "name": "exotic orchard",
-      "count": 2,
-      "usd_value": "0.19"
-    },
-    {
-      "name": "spectator seating",
-      "count": 1,
-      "usd_value": "6.99"
+      "usd_value": "7.76"
     },
     {
       "name": "wooded bastion",
       "count": 1,
-      "usd_value": "7.62"
+      "usd_value": "7.67"
     },
     {
-      "name": "flooded grove",
+      "name": "spark double",
       "count": 1,
-      "usd_value": "1.96"
+      "usd_value": "7.65"
+    },
+    {
+      "name": "aetherflux reservoir",
+      "count": 1,
+      "usd_value": "7.43"
+    },
+    {
+      "name": "nicol bolas, dragon-god",
+      "count": 1,
+      "usd_value": "7.37"
+    },
+    {
+      "name": "imperial seal",
+      "count": 1,
+      "usd_value": "66.78"
+    },
+    {
+      "name": "spectator seating",
+      "count": 1,
+      "usd_value": "6.89"
+    },
+    {
+      "name": "command beacon",
+      "count": 1,
+      "usd_value": "6.62"
+    },
+    {
+      "name": "angelic guardian",
+      "count": 1,
+      "usd_value": "6.53"
+    },
+    {
+      "name": "magus of the moon",
+      "count": 1,
+      "usd_value": "6.44"
+    },
+    {
+      "name": "vanquisher's banner",
+      "count": 1,
+      "usd_value": "6.31"
+    },
+    {
+      "name": "deserted beach",
+      "count": 1,
+      "usd_value": "6.08"
+    },
+    {
+      "name": "vilis, broker of blood",
+      "count": 1,
+      "usd_value": "6.08"
+    },
+    {
+      "name": "wrenn and seven",
+      "count": 1,
+      "usd_value": "6.02"
+    },
+    {
+      "name": "jaheira, friend of the forest",
+      "count": 1,
+      "usd_value": "5.79"
+    },
+    {
+      "name": "the kami war",
+      "count": 1,
+      "usd_value": "5.70"
+    },
+    {
+      "name": "eiganjo, seat of the empire",
+      "count": 1,
+      "usd_value": "5.58"
+    },
+    {
+      "name": "time sieve",
+      "count": 1,
+      "usd_value": "5.56"
+    },
+    {
+      "name": "god-eternal oketra",
+      "count": 1,
+      "usd_value": "5.46"
+    },
+    {
+      "name": "avacyn, angel of hope",
+      "count": 1,
+      "usd_value": "44.25"
+    },
+    {
+      "name": "unnatural growth",
+      "count": 1,
+      "usd_value": "4.94"
+    },
+    {
+      "name": "overgrown farmland",
+      "count": 1,
+      "usd_value": "4.85"
+    },
+    {
+      "name": "karlach, fury of avernus",
+      "count": 1,
+      "usd_value": "4.84"
+    },
+    {
+      "name": "blood money",
+      "count": 2,
+      "usd_value": "4.83"
+    },
+    {
+      "name": "vexing shusher",
+      "count": 1,
+      "usd_value": "4.77"
+    },
+    {
+      "name": "aurelia, the warleader",
+      "count": 1,
+      "usd_value": "4.56"
+    },
+    {
+      "name": "legion's landing",
+      "count": 1,
+      "usd_value": "4.35"
+    },
+    {
+      "name": "vengevine",
+      "count": 1,
+      "usd_value": "4.32"
+    },
+    {
+      "name": "nissa, who shakes the world",
+      "count": 2,
+      "usd_value": "4.05"
+    },
+    {
+      "name": "deflecting swat",
+      "count": 1,
+      "usd_value": "38.03"
+    },
+    {
+      "name": "fury",
+      "count": 1,
+      "usd_value": "36.71"
+    },
+    {
+      "name": "the meathook massacre",
+      "count": 1,
+      "usd_value": "36.14"
+    },
+    {
+      "name": "legion loyalty",
+      "count": 1,
+      "usd_value": "3.98"
+    },
+    {
+      "name": "scheming symmetry",
+      "count": 1,
+      "usd_value": "3.93"
     },
     {
       "name": "twilight mire",
@@ -101,249 +216,124 @@
       "usd_value": "3.92"
     },
     {
-      "name": "overgrown tomb",
+      "name": "michiko konda, truth seeker",
       "count": 1,
-      "usd_value": "13.30"
+      "usd_value": "3.85"
     },
     {
-      "name": "breeding pool",
+      "name": "stonehewer giant",
       "count": 1,
-      "usd_value": "19.14"
+      "usd_value": "3.81"
     },
     {
-      "name": "cinder glade",
+      "name": "ghalta, primal hunger",
+      "count": 1,
+      "usd_value": "3.77"
+    },
+    {
+      "name": "rolling earthquake",
+      "count": 1,
+      "usd_value": "3.74"
+    },
+    {
+      "name": "brutal cathar",
       "count": 2,
-      "usd_value": "0.17"
+      "usd_value": "3.71"
     },
     {
-      "name": "indatha triome",
-      "count": 1,
-      "usd_value": "16.49"
-    },
-    {
-      "name": "mossfire valley",
-      "count": 1,
-      "usd_value": "0.16"
-    },
-    {
-      "name": "haunted ridge",
-      "count": 1,
-      "usd_value": "9.91"
-    },
-    {
-      "name": "stomping ground",
-      "count": 1,
-      "usd_value": "10.08"
-    },
-    {
-      "name": "temple of epiphany",
+      "name": "weaver of harmony",
       "count": 2,
-      "usd_value": "0.17"
+      "usd_value": "3.57"
     },
     {
-      "name": "temple of triumph",
+      "name": "ripjaw raptor",
       "count": 1,
-      "usd_value": "0.14"
+      "usd_value": "3.51"
     },
     {
-      "name": "needle spires",
+      "name": "omnath, locus of rage",
       "count": 1,
-      "usd_value": "0.25"
-    },
-    {
-      "name": "kessig wolf run",
-      "count": 1,
-      "usd_value": "0.25"
-    },
-    {
-      "name": "shadowblood ridge",
-      "count": 1,
-      "usd_value": "0.16"
-    },
-    {
-      "name": "desolate lighthouse",
-      "count": 1,
-      "usd_value": "0.11"
-    },
-    {
-      "name": "blinkmoth nexus",
-      "count": 1,
-      "usd_value": "2.86"
-    },
-    {
-      "name": "blast zone",
-      "count": 1,
-      "usd_value": "0.52"
-    },
-    {
-      "name": "mobilized district",
-      "count": 2,
-      "usd_value": "0.09"
+      "usd_value": "3.41"
     },
     {
       "name": "lotus field",
       "count": 1,
-      "usd_value": "3.35"
+      "usd_value": "3.38"
     },
     {
-      "name": "academy ruins",
+      "name": "eerie interlude",
       "count": 1,
-      "usd_value": "13.73"
+      "usd_value": "3.36"
     },
     {
-      "name": "command beacon",
+      "name": "mesmeric orb",
       "count": 1,
-      "usd_value": "6.78"
+      "usd_value": "3.34"
     },
     {
-      "name": "drownyard temple",
+      "name": "anguished unmaking",
       "count": 1,
-      "usd_value": "0.21"
+      "usd_value": "3.32"
     },
     {
-      "name": "eiganjo, seat of the empire",
+      "name": "beacon of tomorrows",
       "count": 1,
-      "usd_value": "5.83"
+      "usd_value": "3.23"
     },
     {
-      "name": "windbrisk heights",
+      "name": "kodama of the east tree",
       "count": 1,
-      "usd_value": "0.14"
+      "usd_value": "3.19"
     },
     {
-      "name": "snow-covered swamp",
+      "name": "jeska, thrice reborn",
       "count": 1,
-      "usd_value": "0.20"
+      "usd_value": "3.09"
     },
     {
-      "name": "snow-covered plains",
+      "name": "sokenzan, crucible of defiance",
+      "count": 1,
+      "usd_value": "3.07"
+    },
+    {
+      "name": "voracious hydra",
+      "count": 1,
+      "usd_value": "3.00"
+    },
+    {
+      "name": "vampiric tutor",
+      "count": 1,
+      "usd_value": "28.86"
+    },
+    {
+      "name": "finale of devastation",
+      "count": 1,
+      "usd_value": "25.41"
+    },
+    {
+      "name": "esper sentinel",
+      "count": 1,
+      "usd_value": "23.36"
+    },
+    {
+      "name": "blinkmoth nexus",
+      "count": 1,
+      "usd_value": "2.91"
+    },
+    {
+      "name": "obelisk of urd",
+      "count": 1,
+      "usd_value": "2.81"
+    },
+    {
+      "name": "ugin, the ineffable",
+      "count": 1,
+      "usd_value": "2.80"
+    },
+    {
+      "name": "sephara, sky's blade",
       "count": 2,
-      "usd_value": "0.14"
-    },
-    {
-      "name": "walking ballista",
-      "count": 1,
-      "usd_value": "10.11"
-    },
-    {
-      "name": "sundering titan",
-      "count": 2,
-      "usd_value": "0.51"
-    },
-    {
-      "name": "phyrexian revoker",
-      "count": 1,
-      "usd_value": "0.22"
-    },
-    {
-      "name": "akroan horse",
-      "count": 1,
-      "usd_value": "0.23"
-    },
-    {
-      "name": "marching duodrone",
-      "count": 1,
-      "usd_value": "0.06"
-    },
-    {
-      "name": "solemn simulacrum",
-      "count": 1,
-      "usd_value": "0.56"
-    },
-    {
-      "name": "bladegriff prototype",
-      "count": 1,
-      "usd_value": "0.16"
-    },
-    {
-      "name": "myr battlesphere",
-      "count": 1,
-      "usd_value": "0.19"
-    },
-    {
-      "name": "metalwork colossus",
-      "count": 1,
-      "usd_value": "0.42"
-    },
-    {
-      "name": "benthic biomancer",
-      "count": 1,
-      "usd_value": "0.48"
-    },
-    {
-      "name": "sphinx of foresight",
-      "count": 1,
-      "usd_value": "0.36"
-    },
-    {
-      "name": "body of knowledge",
-      "count": 1,
-      "usd_value": "0.53"
-    },
-    {
-      "name": "sakashima's protege",
-      "count": 1,
-      "usd_value": "0.16"
-    },
-    {
-      "name": "lunar mystic",
-      "count": 1,
-      "usd_value": "0.09"
-    },
-    {
-      "name": "fae of wishes",
-      "count": 1,
-      "usd_value": "0.12"
-    },
-    {
-      "name": "eon frolicker",
-      "count": 1,
-      "usd_value": "0.11"
-    },
-    {
-      "name": "nascent metamorph",
-      "count": 1,
-      "usd_value": "0.13"
-    },
-    {
-      "name": "scourge of fleets",
-      "count": 1,
-      "usd_value": "0.25"
-    },
-    {
-      "name": "rattlechains",
-      "count": 1,
-      "usd_value": "0.15"
-    },
-    {
-      "name": "dungeon geists",
-      "count": 2,
-      "usd_value": "0.12"
-    },
-    {
-      "name": "prosperous thief",
-      "count": 1,
-      "usd_value": "0.15"
-    },
-    {
-      "name": "kheru spellsnatcher",
-      "count": 1,
-      "usd_value": "0.07"
-    },
-    {
-      "name": "dimensional infiltrator",
-      "count": 1,
-      "usd_value": "0.18"
-    },
-    {
-      "name": "serpent of yawning depths",
-      "count": 1,
-      "usd_value": "7.96"
-    },
-    {
-      "name": "enigma thief",
-      "count": 1,
-      "usd_value": "0.21"
+      "usd_value": "2.79"
     },
     {
       "name": "poppet stitcher",
@@ -351,154 +341,24 @@
       "usd_value": "2.77"
     },
     {
-      "name": "master of etherium",
+      "name": "rionya, fire dancer",
       "count": 1,
-      "usd_value": "0.15"
+      "usd_value": "2.67"
     },
     {
-      "name": "omnispell adept",
+      "name": "twinning staff",
       "count": 1,
-      "usd_value": "0.12"
+      "usd_value": "2.67"
     },
     {
-      "name": "inkwell leviathan",
+      "name": "rhys the redeemed",
       "count": 1,
-      "usd_value": "0.43"
+      "usd_value": "2.65"
     },
     {
-      "name": "haldan, avid arcanist",
+      "name": "blade historian",
       "count": 1,
-      "usd_value": "0.51"
-    },
-    {
-      "name": "sludge monster",
-      "count": 1,
-      "usd_value": "0.16"
-    },
-    {
-      "name": "spark double",
-      "count": 1,
-      "usd_value": "7.61"
-    },
-    {
-      "name": "patrician geist",
-      "count": 1,
-      "usd_value": "0.13"
-    },
-    {
-      "name": "niblis of frost",
-      "count": 1,
-      "usd_value": "0.16"
-    },
-    {
-      "name": "laboratory drudge",
-      "count": 1,
-      "usd_value": "0.06"
-    },
-    {
-      "name": "illithid harvester",
-      "count": 3,
-      "usd_value": "0.16"
-    },
-    {
-      "name": "gale, waterdeep prodigy",
-      "count": 1,
-      "usd_value": "0.16"
-    },
-    {
-      "name": "talrand, sky summoner",
-      "count": 1,
-      "usd_value": "0.47"
-    },
-    {
-      "name": "tomb of horrors adventurer",
-      "count": 1,
-      "usd_value": "0.24"
-    },
-    {
-      "name": "imoen, mystic trickster",
-      "count": 1,
-      "usd_value": "0.09"
-    },
-    {
-      "name": "eligeth, crossroads augur",
-      "count": 1,
-      "usd_value": "0.15"
-    },
-    {
-      "name": "guardians of oboro",
-      "count": 5,
-      "usd_value": "0.01"
-    },
-    {
-      "name": "futurist operative",
-      "count": 3,
-      "usd_value": "0.01"
-    },
-    {
-      "name": "tameshi, reality architect",
-      "count": 2,
-      "usd_value": "0.12"
-    },
-    {
-      "name": "aetherling",
-      "count": 2,
-      "usd_value": "0.23"
-    },
-    {
-      "name": "moonsnare specialist",
-      "count": 7,
-      "usd_value": "0.03"
-    },
-    {
-      "name": "mirror-mad phantasm",
-      "count": 2,
-      "usd_value": "0.49"
-    },
-    {
-      "name": "hidetsugu, devouring chaos",
-      "count": 1,
-      "usd_value": "0.19"
-    },
-    {
-      "name": "ruin raider",
-      "count": 1,
-      "usd_value": "0.21"
-    },
-    {
-      "name": "nashi, moon sage's scion",
-      "count": 1,
-      "usd_value": "1.45"
-    },
-    {
-      "name": "myojin of grim betrayal",
-      "count": 1,
-      "usd_value": "0.11"
-    },
-    {
-      "name": "nighthowler",
-      "count": 1,
-      "usd_value": "0.15"
-    },
-    {
-      "name": "ogre slumlord",
-      "count": 1,
-      "usd_value": "0.63"
-    },
-    {
-      "name": "massacre girl",
-      "count": 1,
-      "usd_value": "0.33"
-    },
-    {
-      "name": "salvage titan",
-      "count": 1,
-      "usd_value": "0.23"
-    },
-    {
-      "name": "sepulchral primordial",
-      "count": 1,
-      "usd_value": "1.26"
+      "usd_value": "2.59"
     },
     {
       "name": "death's shadow",
@@ -506,49 +366,189 @@
       "usd_value": "2.57"
     },
     {
-      "name": "murderous rider",
+      "name": "reshape",
       "count": 1,
-      "usd_value": "0.54"
+      "usd_value": "2.53"
     },
     {
-      "name": "piper of the swarm",
+      "name": "lathliss, dragon queen",
       "count": 1,
-      "usd_value": "0.28"
+      "usd_value": "2.47"
     },
     {
-      "name": "demon of loathing",
+      "name": "kaito, shizuki",
       "count": 1,
-      "usd_value": "0.25"
+      "usd_value": "2.41"
     },
     {
-      "name": "gravewaker",
+      "name": "rings of brighthearth",
       "count": 1,
-      "usd_value": "0.07"
+      "usd_value": "2.39"
     },
     {
-      "name": "despoiler of souls",
+      "name": "court of cunning",
       "count": 1,
-      "usd_value": "0.14"
+      "usd_value": "2.33"
     },
     {
-      "name": "soul of innistrad",
+      "name": "council's judgment",
       "count": 1,
-      "usd_value": "0.19"
+      "usd_value": "2.17"
     },
     {
-      "name": "silumgar assassin",
+      "name": "marauding raptor",
       "count": 1,
-      "usd_value": "0.07"
+      "usd_value": "2.15"
     },
     {
-      "name": "defiant bloodlord",
+      "name": "decanter of endless water",
       "count": 1,
-      "usd_value": "0.20"
+      "usd_value": "2.05"
     },
     {
-      "name": "guul draz overseer",
+      "name": "traverse the outlands",
       "count": 1,
-      "usd_value": "0.10"
+      "usd_value": "2.01"
+    },
+    {
+      "name": "breeding pool",
+      "count": 1,
+      "usd_value": "19.18"
+    },
+    {
+      "name": "indatha triome",
+      "count": 1,
+      "usd_value": "16.28"
+    },
+    {
+      "name": "opposition agent",
+      "count": 1,
+      "usd_value": "14.15"
+    },
+    {
+      "name": "academy ruins",
+      "count": 1,
+      "usd_value": "13.55"
+    },
+    {
+      "name": "overgrown tomb",
+      "count": 1,
+      "usd_value": "13.17"
+    },
+    {
+      "name": "apex devastator",
+      "count": 1,
+      "usd_value": "12.48"
+    },
+    {
+      "name": "mana reflection",
+      "count": 1,
+      "usd_value": "12.36"
+    },
+    {
+      "name": "kindred discovery",
+      "count": 1,
+      "usd_value": "11.86"
+    },
+    {
+      "name": "vault of champions",
+      "count": 1,
+      "usd_value": "11.74"
+    },
+    {
+      "name": "dryad of the ilysian grove",
+      "count": 3,
+      "usd_value": "11.26"
+    },
+    {
+      "name": "korvold, fae-cursed king",
+      "count": 1,
+      "usd_value": "10.38"
+    },
+    {
+      "name": "blood moon",
+      "count": 1,
+      "usd_value": "10.34"
+    },
+    {
+      "name": "walking ballista",
+      "count": 1,
+      "usd_value": "10.10"
+    },
+    {
+      "name": "stomping ground",
+      "count": 1,
+      "usd_value": "10.09"
+    },
+    {
+      "name": "haunted ridge",
+      "count": 1,
+      "usd_value": "10.07"
+    },
+    {
+      "name": "flooded grove",
+      "count": 1,
+      "usd_value": "1.96"
+    },
+    {
+      "name": "yarok, the desecrated",
+      "count": 1,
+      "usd_value": "1.94"
+    },
+    {
+      "name": "wilhelt, the rotcleaver",
+      "count": 1,
+      "usd_value": "1.88"
+    },
+    {
+      "name": "multani, yavimaya's avatar",
+      "count": 1,
+      "usd_value": "1.88"
+    },
+    {
+      "name": "jhoira, weatherlight captain",
+      "count": 1,
+      "usd_value": "1.88"
+    },
+    {
+      "name": "kura, the boundless sky",
+      "count": 2,
+      "usd_value": "1.83"
+    },
+    {
+      "name": "march of swirling mist",
+      "count": 2,
+      "usd_value": "1.82"
+    },
+    {
+      "name": "return of the wildspeaker",
+      "count": 2,
+      "usd_value": "1.81"
+    },
+    {
+      "name": "keeper of the accord",
+      "count": 1,
+      "usd_value": "1.79"
+    },
+    {
+      "name": "immortal phoenix",
+      "count": 1,
+      "usd_value": "1.75"
+    },
+    {
+      "name": "weathered wayfarer",
+      "count": 1,
+      "usd_value": "1.65"
+    },
+    {
+      "name": "descent into avernus",
+      "count": 1,
+      "usd_value": "1.53"
+    },
+    {
+      "name": "nashi, moon sage's scion",
+      "count": 1,
+      "usd_value": "1.49"
     },
     {
       "name": "spawn of mayhem",
@@ -556,29 +556,9 @@
       "usd_value": "1.44"
     },
     {
-      "name": "nezumi prowler",
-      "count": 1,
-      "usd_value": "0.08"
-    },
-    {
-      "name": "pestilence demon",
-      "count": 1,
-      "usd_value": "0.49"
-    },
-    {
-      "name": "graveyard trespasser",
-      "count": 1,
-      "usd_value": "0.55"
-    },
-    {
-      "name": "baneblade scoundrel",
-      "count": 1,
-      "usd_value": "0.03"
-    },
-    {
-      "name": "calculating lich",
-      "count": 1,
-      "usd_value": "0.24"
+      "name": "always watching",
+      "count": 3,
+      "usd_value": "1.38"
     },
     {
       "name": "dread presence",
@@ -586,19 +566,2134 @@
       "usd_value": "1.36"
     },
     {
-      "name": "safana, calimport cutthroat",
-      "count": 1,
-      "usd_value": "0.08"
+      "name": "march of otherworldly light",
+      "count": 2,
+      "usd_value": "1.36"
     },
     {
-      "name": "viconia, drow apostate",
+      "name": "sepulchral primordial",
       "count": 1,
-      "usd_value": "0.06"
+      "usd_value": "1.26"
+    },
+    {
+      "name": "parhelion II",
+      "count": 1,
+      "usd_value": "1.25"
+    },
+    {
+      "name": "casualties of war",
+      "count": 1,
+      "usd_value": "1.23"
+    },
+    {
+      "name": "extinguish all hope",
+      "count": 1,
+      "usd_value": "1.22"
+    },
+    {
+      "name": "storm the festival",
+      "count": 1,
+      "usd_value": "1.22"
+    },
+    {
+      "name": "rites of flourishing",
+      "count": 1,
+      "usd_value": "1.20"
+    },
+    {
+      "name": "yavimaya coast",
+      "count": 1,
+      "usd_value": "1.16"
+    },
+    {
+      "name": "notion thief",
+      "count": 1,
+      "usd_value": "1.15"
+    },
+    {
+      "name": "ratchet bomb",
+      "count": 1,
+      "usd_value": "1.12"
+    },
+    {
+      "name": "lae'zel vlaakith's champion",
+      "count": 1,
+      "usd_value": "1.11"
+    },
+    {
+      "name": "chaos warp",
+      "count": 1,
+      "usd_value": "1.09"
+    },
+    {
+      "name": "domri, anarch of bolas",
+      "count": 1,
+      "usd_value": "1.07"
+    },
+    {
+      "name": "terror of mount velus",
+      "count": 1,
+      "usd_value": "1.04"
+    },
+    {
+      "name": "sygg, river cutthroat",
+      "count": 1,
+      "usd_value": "1.03"
+    },
+    {
+      "name": "dreadhorde arcanist",
+      "count": 1,
+      "usd_value": "1.01"
+    },
+    {
+      "name": "tamiyo, compleated sage",
+      "count": 1,
+      "usd_value": "1.01"
+    },
+    {
+      "name": "niv-mizzet reborn",
+      "count": 1,
+      "usd_value": "0.98"
+    },
+    {
+      "name": "pithing needle",
+      "count": 1,
+      "usd_value": "0.98"
+    },
+    {
+      "name": "glint-horn buccaneer",
+      "count": 2,
+      "usd_value": "0.96"
+    },
+    {
+      "name": "finale of eternity",
+      "count": 1,
+      "usd_value": "0.96"
+    },
+    {
+      "name": "kogla, the titan ape",
+      "count": 1,
+      "usd_value": "0.88"
+    },
+    {
+      "name": "krenko, tin street kingpin",
+      "count": 2,
+      "usd_value": "0.87"
+    },
+    {
+      "name": "zedruu the greathearted",
+      "count": 1,
+      "usd_value": "0.81"
+    },
+    {
+      "name": "phyrexian scriptures",
+      "count": 1,
+      "usd_value": "0.80"
+    },
+    {
+      "name": "snow-covered island",
+      "count": 1,
+      "usd_value": "0.78"
+    },
+    {
+      "name": "plaza of harmony",
+      "count": 1,
+      "usd_value": "0.77"
+    },
+    {
+      "name": "rashmi, eternities crafter",
+      "count": 1,
+      "usd_value": "0.75"
+    },
+    {
+      "name": "once upon a time",
+      "count": 1,
+      "usd_value": "0.75"
+    },
+    {
+      "name": "drakuseth, maw of flames",
+      "count": 2,
+      "usd_value": "0.74"
+    },
+    {
+      "name": "verix bladewing",
+      "count": 1,
+      "usd_value": "0.73"
+    },
+    {
+      "name": "fevered visions",
+      "count": 2,
+      "usd_value": "0.73"
+    },
+    {
+      "name": "combustible gearhulk",
+      "count": 1,
+      "usd_value": "0.72"
+    },
+    {
+      "name": "lizard blades",
+      "count": 1,
+      "usd_value": "0.71"
+    },
+    {
+      "name": "comet storm",
+      "count": 1,
+      "usd_value": "0.71"
+    },
+    {
+      "name": "thran temporal gateway",
+      "count": 1,
+      "usd_value": "0.71"
+    },
+    {
+      "name": "revival/revenge",
+      "count": 1,
+      "usd_value": "0.71"
+    },
+    {
+      "name": "in garruk's wake",
+      "count": 1,
+      "usd_value": "0.70"
+    },
+    {
+      "name": "borborygmos enraged",
+      "count": 1,
+      "usd_value": "0.69"
+    },
+    {
+      "name": "meddling mage",
+      "count": 1,
+      "usd_value": "0.69"
+    },
+    {
+      "name": "snow-covered forest",
+      "count": 1,
+      "usd_value": "0.68"
+    },
+    {
+      "name": "lae'zel's acrobatics",
+      "count": 1,
+      "usd_value": "0.68"
+    },
+    {
+      "name": "command the dreadhorde",
+      "count": 1,
+      "usd_value": "0.68"
+    },
+    {
+      "name": "leyline of combustion",
+      "count": 1,
+      "usd_value": "0.65"
+    },
+    {
+      "name": "court of grace",
+      "count": 1,
+      "usd_value": "0.65"
+    },
+    {
+      "name": "river's rebuke",
+      "count": 1,
+      "usd_value": "0.65"
+    },
+    {
+      "name": "solemn simulacrum",
+      "count": 1,
+      "usd_value": "0.64"
+    },
+    {
+      "name": "izoni,thousand-eyed",
+      "count": 1,
+      "usd_value": "0.64"
+    },
+    {
+      "name": "ogre slumlord",
+      "count": 1,
+      "usd_value": "0.63"
+    },
+    {
+      "name": "brudiclad, telchor engineer",
+      "count": 2,
+      "usd_value": "0.63"
+    },
+    {
+      "name": "pako arcane retriever",
+      "count": 1,
+      "usd_value": "0.62"
+    },
+    {
+      "name": "fulminator mage",
+      "count": 1,
+      "usd_value": "0.61"
+    },
+    {
+      "name": "mina and denn, wildborn",
+      "count": 2,
+      "usd_value": "0.60"
+    },
+    {
+      "name": "enchantress's presence",
+      "count": 1,
+      "usd_value": "0.60"
+    },
+    {
+      "name": "goro-goro, disciple of ryusei",
+      "count": 1,
+      "usd_value": "0.58"
+    },
+    {
+      "name": "oran-rief the vastwood",
+      "count": 1,
+      "usd_value": "0.56"
+    },
+    {
+      "name": "katilda, dawnhart prime",
+      "count": 1,
+      "usd_value": "0.56"
+    },
+    {
+      "name": "dreadhorde butcher",
+      "count": 1,
+      "usd_value": "0.55"
+    },
+    {
+      "name": "blast zone",
+      "count": 1,
+      "usd_value": "0.54"
+    },
+    {
+      "name": "graveyard trespasser",
+      "count": 1,
+      "usd_value": "0.54"
+    },
+    {
+      "name": "kyler, sigardian emissary",
+      "count": 1,
+      "usd_value": "0.54"
+    },
+    {
+      "name": "engulf the shore",
+      "count": 1,
+      "usd_value": "0.54"
+    },
+    {
+      "name": "body of knowledge",
+      "count": 1,
+      "usd_value": "0.53"
+    },
+    {
+      "name": "the elderspell",
+      "count": 2,
+      "usd_value": "0.52"
+    },
+    {
+      "name": "sundering titan",
+      "count": 2,
+      "usd_value": "0.51"
+    },
+    {
+      "name": "haldan, avid arcanist",
+      "count": 1,
+      "usd_value": "0.51"
+    },
+    {
+      "name": "murderous rider",
+      "count": 1,
+      "usd_value": "0.51"
+    },
+    {
+      "name": "moonveil regent",
+      "count": 1,
+      "usd_value": "0.51"
+    },
+    {
+      "name": "cultivate",
+      "count": 1,
+      "usd_value": "0.50"
+    },
+    {
+      "name": "notorious throng",
+      "count": 1,
+      "usd_value": "0.50"
+    },
+    {
+      "name": "mirror-mad phantasm",
+      "count": 2,
+      "usd_value": "0.49"
+    },
+    {
+      "name": "pestilence demon",
+      "count": 1,
+      "usd_value": "0.49"
+    },
+    {
+      "name": "kalamax, the stormsire",
+      "count": 1,
+      "usd_value": "0.49"
+    },
+    {
+      "name": "benthic biomancer",
+      "count": 1,
+      "usd_value": "0.48"
+    },
+    {
+      "name": "sun titan",
+      "count": 1,
+      "usd_value": "0.48"
+    },
+    {
+      "name": "etali, primal storm",
+      "count": 1,
+      "usd_value": "0.48"
+    },
+    {
+      "name": "blood sun",
+      "count": 1,
+      "usd_value": "0.48"
+    },
+    {
+      "name": "mask of griselbrand",
+      "count": 1,
+      "usd_value": "0.48"
+    },
+    {
+      "name": "talrand, sky summoner",
+      "count": 1,
+      "usd_value": "0.47"
+    },
+    {
+      "name": "boros reckoner",
+      "count": 1,
+      "usd_value": "0.47"
+    },
+    {
+      "name": "bring to light",
+      "count": 1,
+      "usd_value": "0.47"
+    },
+    {
+      "name": "nylea's intervention",
+      "count": 1,
+      "usd_value": "0.46"
+    },
+    {
+      "name": "visions of ruin",
+      "count": 1,
+      "usd_value": "0.46"
+    },
+    {
+      "name": "single combat",
+      "count": 1,
+      "usd_value": "0.46"
+    },
+    {
+      "name": "inkwell leviathan",
+      "count": 1,
+      "usd_value": "0.43"
+    },
+    {
+      "name": "blade of the oni",
+      "count": 2,
+      "usd_value": "0.43"
+    },
+    {
+      "name": "light-paws, emperor's voice",
+      "count": 3,
+      "usd_value": "0.43"
+    },
+    {
+      "name": "metalwork colossus",
+      "count": 1,
+      "usd_value": "0.42"
+    },
+    {
+      "name": "abundance",
+      "count": 1,
+      "usd_value": "0.42"
+    },
+    {
+      "name": "castle vantress",
+      "count": 2,
+      "usd_value": "0.41"
+    },
+    {
+      "name": "brightflame",
+      "count": 1,
+      "usd_value": "0.41"
+    },
+    {
+      "name": "terastodon",
+      "count": 1,
+      "usd_value": "0.40"
+    },
+    {
+      "name": "akoum hellkite",
+      "count": 1,
+      "usd_value": "0.40"
+    },
+    {
+      "name": "outland liberator",
+      "count": 2,
+      "usd_value": "0.39"
+    },
+    {
+      "name": "smoldering egg",
+      "count": 1,
+      "usd_value": "0.39"
+    },
+    {
+      "name": "sphinx of foresight",
+      "count": 1,
+      "usd_value": "0.38"
+    },
+    {
+      "name": "legion warboss",
+      "count": 2,
+      "usd_value": "0.38"
+    },
+    {
+      "name": "fractured sanity",
+      "count": 1,
+      "usd_value": "0.38"
+    },
+    {
+      "name": "serra's guardian",
+      "count": 2,
+      "usd_value": "0.37"
+    },
+    {
+      "name": "zirda, the dawnwaker",
+      "count": 1,
+      "usd_value": "0.37"
+    },
+    {
+      "name": "collapsing borders",
+      "count": 4,
+      "usd_value": "0.37"
+    },
+    {
+      "name": "savageborn hydra",
+      "count": 1,
+      "usd_value": "0.36"
+    },
+    {
+      "name": "reap the past",
+      "count": 1,
+      "usd_value": "0.36"
+    },
+    {
+      "name": "ravnica at war",
+      "count": 1,
+      "usd_value": "0.36"
+    },
+    {
+      "name": "razia, boros archangel",
+      "count": 1,
+      "usd_value": "0.35"
+    },
+    {
+      "name": "rampaging baloths",
+      "count": 1,
+      "usd_value": "0.35"
+    },
+    {
+      "name": "ashcloud phoenix",
+      "count": 1,
+      "usd_value": "0.35"
+    },
+    {
+      "name": "greasefang, okiba boss",
+      "count": 2,
+      "usd_value": "0.35"
+    },
+    {
+      "name": "epiphany at the drownyard",
+      "count": 1,
+      "usd_value": "0.35"
+    },
+    {
+      "name": "icy blast",
+      "count": 1,
+      "usd_value": "0.35"
+    },
+    {
+      "name": "blackblade reforged",
+      "count": 1,
+      "usd_value": "0.35"
+    },
+    {
+      "name": "fumigate",
+      "count": 1,
+      "usd_value": "0.35"
+    },
+    {
+      "name": "immaculate magistrate",
+      "count": 1,
+      "usd_value": "0.34"
+    },
+    {
+      "name": "zegana, utopian speaker",
+      "count": 2,
+      "usd_value": "0.34"
+    },
+    {
+      "name": "massacre girl",
+      "count": 1,
+      "usd_value": "0.33"
+    },
+    {
+      "name": "roalesk, apex hybrid",
+      "count": 1,
+      "usd_value": "0.33"
+    },
+    {
+      "name": "mardu ascendancy",
+      "count": 1,
+      "usd_value": "0.33"
+    },
+    {
+      "name": "helvault",
+      "count": 1,
+      "usd_value": "0.33"
+    },
+    {
+      "name": "tolsimir, friend to wolves",
+      "count": 1,
+      "usd_value": "0.32"
+    },
+    {
+      "name": "archon of coronation",
+      "count": 1,
+      "usd_value": "0.31"
+    },
+    {
+      "name": "falkenrath aristocrat",
+      "count": 1,
+      "usd_value": "0.31"
+    },
+    {
+      "name": "ruric thar, the unbowed",
+      "count": 2,
+      "usd_value": "0.31"
+    },
+    {
+      "name": "ravager wurm",
+      "count": 1,
+      "usd_value": "0.31"
+    },
+    {
+      "name": "lavinia of the tenth",
+      "count": 2,
+      "usd_value": "0.31"
+    },
+    {
+      "name": "agent of the iron throne",
+      "count": 1,
+      "usd_value": "0.31"
+    },
+    {
+      "name": "vivien, champion of the wilds",
+      "count": 1,
+      "usd_value": "0.31"
+    },
+    {
+      "name": "artifact mutation",
+      "count": 1,
+      "usd_value": "0.31"
+    },
+    {
+      "name": "silent gravestone",
+      "count": 1,
+      "usd_value": "0.31"
+    },
+    {
+      "name": "agrus kos, wojek veteran",
+      "count": 1,
+      "usd_value": "0.30"
+    },
+    {
+      "name": "immolation shaman",
+      "count": 1,
+      "usd_value": "0.30"
+    },
+    {
+      "name": "flame-wreathed phoenix",
+      "count": 1,
+      "usd_value": "0.30"
+    },
+    {
+      "name": "xyris, the writhing storm",
+      "count": 1,
+      "usd_value": "0.30"
+    },
+    {
+      "name": "gruesome slaughter",
+      "count": 1,
+      "usd_value": "0.30"
+    },
+    {
+      "name": "zetalpa, primal dawn",
+      "count": 1,
+      "usd_value": "0.29"
+    },
+    {
+      "name": "cylian sunsinger",
+      "count": 1,
+      "usd_value": "0.29"
+    },
+    {
+      "name": "dualcaster mage",
+      "count": 1,
+      "usd_value": "0.29"
+    },
+    {
+      "name": "dream trawler",
+      "count": 1,
+      "usd_value": "0.29"
+    },
+    {
+      "name": "quarantine field",
+      "count": 1,
+      "usd_value": "0.29"
+    },
+    {
+      "name": "junkyo bell",
+      "count": 1,
+      "usd_value": "0.29"
+    },
+    {
+      "name": "piper of the swarm",
+      "count": 1,
+      "usd_value": "0.28"
+    },
+    {
+      "name": "trove warden",
+      "count": 1,
+      "usd_value": "0.28"
+    },
+    {
+      "name": "sidisi, brood tyrant",
+      "count": 1,
+      "usd_value": "0.28"
+    },
+    {
+      "name": "daxos's torment",
+      "count": 1,
+      "usd_value": "0.28"
+    },
+    {
+      "name": "court of ire",
+      "count": 1,
+      "usd_value": "0.28"
+    },
+    {
+      "name": "swarm intelligence",
+      "count": 1,
+      "usd_value": "0.28"
+    },
+    {
+      "name": "geyadrone dihada",
+      "count": 1,
+      "usd_value": "0.28"
+    },
+    {
+      "name": "astarion's thirst",
+      "count": 1,
+      "usd_value": "0.28"
+    },
+    {
+      "name": "ravenloft adventurer",
+      "count": 1,
+      "usd_value": "0.27"
+    },
+    {
+      "name": "sin prodder",
+      "count": 1,
+      "usd_value": "0.27"
+    },
+    {
+      "name": "rekindling phoenix",
+      "count": 1,
+      "usd_value": "0.27"
+    },
+    {
+      "name": "akoum firebird",
+      "count": 1,
+      "usd_value": "0.27"
+    },
+    {
+      "name": "isshin, two heavens as one",
+      "count": 1,
+      "usd_value": "0.27"
+    },
+    {
+      "name": "melek izzet paragon",
+      "count": 1,
+      "usd_value": "0.27"
+    },
+    {
+      "name": "deputy of detention",
+      "count": 1,
+      "usd_value": "0.27"
+    },
+    {
+      "name": "sultai ascendancy",
+      "count": 1,
+      "usd_value": "0.27"
+    },
+    {
+      "name": "loxodon warhammer",
+      "count": 1,
+      "usd_value": "0.27"
+    },
+    {
+      "name": "nevinyrral's disk",
+      "count": 1,
+      "usd_value": "0.27"
+    },
+    {
+      "name": "angelfire ignition",
+      "count": 1,
+      "usd_value": "0.27"
+    },
+    {
+      "name": "irencrag feat",
+      "count": 1,
+      "usd_value": "0.27"
+    },
+    {
+      "name": "alpha brawl",
+      "count": 1,
+      "usd_value": "0.27"
+    },
+    {
+      "name": "mosswort bridge",
+      "count": 1,
+      "usd_value": "0.26"
+    },
+    {
+      "name": "wingmate roc",
+      "count": 1,
+      "usd_value": "0.26"
+    },
+    {
+      "name": "swiftblade vindicator",
+      "count": 3,
+      "usd_value": "0.26"
+    },
+    {
+      "name": "warden of the first tree",
+      "count": 2,
+      "usd_value": "0.26"
+    },
+    {
+      "name": "underworld cerberus",
+      "count": 1,
+      "usd_value": "0.26"
+    },
+    {
+      "name": "isperia, supreme judge",
+      "count": 1,
+      "usd_value": "0.26"
+    },
+    {
+      "name": "descent into madness",
+      "count": 1,
+      "usd_value": "0.26"
+    },
+    {
+      "name": "jace, architect of thought",
+      "count": 1,
+      "usd_value": "0.26"
+    },
+    {
+      "name": "solar blaze",
+      "count": 3,
+      "usd_value": "0.26"
+    },
+    {
+      "name": "trade secrets",
+      "count": 1,
+      "usd_value": "0.26"
+    },
+    {
+      "name": "needle spires",
+      "count": 1,
+      "usd_value": "0.25"
+    },
+    {
+      "name": "scourge of fleets",
+      "count": 1,
+      "usd_value": "0.25"
+    },
+    {
+      "name": "fathom feeder",
+      "count": 1,
+      "usd_value": "0.25"
+    },
+    {
+      "name": "oviya pashiri, sage lifecrafter",
+      "count": 1,
+      "usd_value": "0.25"
+    },
+    {
+      "name": "lathiel, the bounteous dawn",
+      "count": 1,
+      "usd_value": "0.25"
+    },
+    {
+      "name": "oath of kaya",
+      "count": 2,
+      "usd_value": "0.25"
+    },
+    {
+      "name": "the mending of dominaria",
+      "count": 1,
+      "usd_value": "0.25"
+    },
+    {
+      "name": "sarkhan the masterless",
+      "count": 2,
+      "usd_value": "0.25"
+    },
+    {
+      "name": "eye of doom",
+      "count": 1,
+      "usd_value": "0.25"
+    },
+    {
+      "name": "beck/call",
+      "count": 1,
+      "usd_value": "0.25"
+    },
+    {
+      "name": "predatory rampage",
+      "count": 1,
+      "usd_value": "0.25"
+    },
+    {
+      "name": "tomb of horrors adventurer",
+      "count": 1,
+      "usd_value": "0.24"
+    },
+    {
+      "name": "demon of loathing",
+      "count": 1,
+      "usd_value": "0.24"
+    },
+    {
+      "name": "calculating lich",
+      "count": 1,
+      "usd_value": "0.24"
+    },
+    {
+      "name": "tomik, distinguished advokist",
+      "count": 1,
+      "usd_value": "0.24"
+    },
+    {
+      "name": "doomgape",
+      "count": 1,
+      "usd_value": "0.24"
+    },
+    {
+      "name": "wicked wolf",
+      "count": 1,
+      "usd_value": "0.24"
+    },
+    {
+      "name": "renegade krasis",
+      "count": 1,
+      "usd_value": "0.24"
+    },
+    {
+      "name": "flameblast dragon",
+      "count": 1,
+      "usd_value": "0.24"
+    },
+    {
+      "name": "sunstreak phoenix",
+      "count": 1,
+      "usd_value": "0.24"
+    },
+    {
+      "name": "slogurk, the overslime",
+      "count": 1,
+      "usd_value": "0.24"
+    },
+    {
+      "name": "oath of the ancient wood",
+      "count": 1,
+      "usd_value": "0.24"
+    },
+    {
+      "name": "siphon insight",
+      "count": 1,
+      "usd_value": "0.24"
+    },
+    {
+      "name": "curious herd",
+      "count": 1,
+      "usd_value": "0.24"
+    },
+    {
+      "name": "pyxis of pandemonium",
+      "count": 1,
+      "usd_value": "0.24"
+    },
+    {
+      "name": "stonespeaker crystal",
+      "count": 1,
+      "usd_value": "0.24"
+    },
+    {
+      "name": "eater of virtue",
+      "count": 2,
+      "usd_value": "0.24"
+    },
+    {
+      "name": "kessig wolf run",
+      "count": 1,
+      "usd_value": "0.23"
+    },
+    {
+      "name": "akroan horse",
+      "count": 1,
+      "usd_value": "0.23"
+    },
+    {
+      "name": "aetherling",
+      "count": 2,
+      "usd_value": "0.23"
+    },
+    {
+      "name": "salvage titan",
+      "count": 1,
+      "usd_value": "0.23"
+    },
+    {
+      "name": "satoru umezawa",
+      "count": 2,
+      "usd_value": "0.23"
+    },
+    {
+      "name": "soul of zendikar",
+      "count": 1,
+      "usd_value": "0.23"
+    },
+    {
+      "name": "monastery swiftspear",
+      "count": 1,
+      "usd_value": "0.23"
+    },
+    {
+      "name": "shardless agent",
+      "count": 1,
+      "usd_value": "0.23"
+    },
+    {
+      "name": "kamahl's will",
+      "count": 1,
+      "usd_value": "0.23"
+    },
+    {
+      "name": "kaya's wrath",
+      "count": 1,
+      "usd_value": "0.23"
+    },
+    {
+      "name": "soulquake",
+      "count": 1,
+      "usd_value": "0.23"
+    },
+    {
+      "name": "phyrexian revoker",
+      "count": 1,
+      "usd_value": "0.22"
+    },
+    {
+      "name": "biting-palm ninja",
+      "count": 2,
+      "usd_value": "0.22"
+    },
+    {
+      "name": "champion of stray souls",
+      "count": 2,
+      "usd_value": "0.22"
+    },
+    {
+      "name": "kami of transience",
+      "count": 2,
+      "usd_value": "0.22"
+    },
+    {
+      "name": "thundering raiju",
+      "count": 1,
+      "usd_value": "0.22"
+    },
+    {
+      "name": "jhoira of the ghitu",
+      "count": 1,
+      "usd_value": "0.22"
+    },
+    {
+      "name": "spirit-sister's call",
+      "count": 1,
+      "usd_value": "0.22"
+    },
+    {
+      "name": "liliana's mastery",
+      "count": 1,
+      "usd_value": "0.22"
+    },
+    {
+      "name": "master warcraft",
+      "count": 1,
+      "usd_value": "0.22"
+    },
+    {
+      "name": "awakening of vitu-ghazi",
+      "count": 1,
+      "usd_value": "0.22"
+    },
+    {
+      "name": "angrath's fury",
+      "count": 2,
+      "usd_value": "0.22"
+    },
+    {
+      "name": "enigma thief",
+      "count": 1,
+      "usd_value": "0.21"
+    },
+    {
+      "name": "ruin raider",
+      "count": 1,
+      "usd_value": "0.21"
+    },
+    {
+      "name": "kytheon's irregulars",
+      "count": 1,
+      "usd_value": "0.21"
+    },
+    {
+      "name": "predatory urge",
+      "count": 1,
+      "usd_value": "0.21"
+    },
+    {
+      "name": "curse of shaken faith",
+      "count": 1,
+      "usd_value": "0.21"
+    },
+    {
+      "name": "ignite the beacon",
+      "count": 2,
+      "usd_value": "0.21"
+    },
+    {
+      "name": "tower of calamities",
+      "count": 1,
+      "usd_value": "0.21"
+    },
+    {
+      "name": "dire-strain rampage",
+      "count": 1,
+      "usd_value": "0.21"
+    },
+    {
+      "name": "howl of the horde",
+      "count": 1,
+      "usd_value": "0.21"
+    },
+    {
+      "name": "drownyard temple",
+      "count": 1,
+      "usd_value": "0.20"
+    },
+    {
+      "name": "snow-covered swamp",
+      "count": 1,
+      "usd_value": "0.20"
+    },
+    {
+      "name": "defiant bloodlord",
+      "count": 1,
+      "usd_value": "0.20"
     },
     {
       "name": "shadowheart, dark justiciar",
       "count": 2,
       "usd_value": "0.20"
+    },
+    {
+      "name": "consuming aberration",
+      "count": 1,
+      "usd_value": "0.20"
+    },
+    {
+      "name": "falkenrath pit fighter",
+      "count": 1,
+      "usd_value": "0.20"
+    },
+    {
+      "name": "invocation of saint traft",
+      "count": 2,
+      "usd_value": "0.20"
+    },
+    {
+      "name": "sigarda's splendor",
+      "count": 1,
+      "usd_value": "0.20"
+    },
+    {
+      "name": "obzedat's aid",
+      "count": 1,
+      "usd_value": "0.20"
+    },
+    {
+      "name": "role reversal",
+      "count": 1,
+      "usd_value": "0.20"
+    },
+    {
+      "name": "eldritch pact",
+      "count": 1,
+      "usd_value": "0.20"
+    },
+    {
+      "name": "castle embereth",
+      "count": 1,
+      "usd_value": "0.19"
+    },
+    {
+      "name": "exotic orchard",
+      "count": 2,
+      "usd_value": "0.19"
+    },
+    {
+      "name": "myr battlesphere",
+      "count": 1,
+      "usd_value": "0.19"
+    },
+    {
+      "name": "soul of innistrad",
+      "count": 1,
+      "usd_value": "0.19"
+    },
+    {
+      "name": "oathsworn knight",
+      "count": 1,
+      "usd_value": "0.19"
+    },
+    {
+      "name": "giant killer",
+      "count": 2,
+      "usd_value": "0.19"
+    },
+    {
+      "name": "light of the legion",
+      "count": 1,
+      "usd_value": "0.19"
+    },
+    {
+      "name": "captain lannery storm",
+      "count": 1,
+      "usd_value": "0.19"
+    },
+    {
+      "name": "abzan ascendancy",
+      "count": 1,
+      "usd_value": "0.19"
+    },
+    {
+      "name": "happily ever after",
+      "count": 1,
+      "usd_value": "0.19"
+    },
+    {
+      "name": "firemind's foresight",
+      "count": 1,
+      "usd_value": "0.19"
+    },
+    {
+      "name": "dromoka's command",
+      "count": 1,
+      "usd_value": "0.19"
+    },
+    {
+      "name": "commune with lava",
+      "count": 1,
+      "usd_value": "0.19"
+    },
+    {
+      "name": "corrupted grafstone",
+      "count": 1,
+      "usd_value": "0.19"
+    },
+    {
+      "name": "seer's sundial",
+      "count": 2,
+      "usd_value": "0.19"
+    },
+    {
+      "name": "silent submersible",
+      "count": 1,
+      "usd_value": "0.19"
+    },
+    {
+      "name": "time wipe",
+      "count": 1,
+      "usd_value": "0.19"
+    },
+    {
+      "name": "necromantic selection",
+      "count": 1,
+      "usd_value": "0.19"
+    },
+    {
+      "name": "spinerock knoll",
+      "count": 1,
+      "usd_value": "0.18"
+    },
+    {
+      "name": "cinder glade",
+      "count": 2,
+      "usd_value": "0.18"
+    },
+    {
+      "name": "dimensional infiltrator",
+      "count": 1,
+      "usd_value": "0.18"
+    },
+    {
+      "name": "raiyuu, storm's edge",
+      "count": 2,
+      "usd_value": "0.18"
+    },
+    {
+      "name": "zara, renegade recruiter",
+      "count": 1,
+      "usd_value": "0.18"
+    },
+    {
+      "name": "dragon shift",
+      "count": 1,
+      "usd_value": "0.18"
+    },
+    {
+      "name": "march of wretched sorrow",
+      "count": 2,
+      "usd_value": "0.18"
+    },
+    {
+      "name": "chaos wand",
+      "count": 2,
+      "usd_value": "0.18"
+    },
+    {
+      "name": "haunted plate mail",
+      "count": 1,
+      "usd_value": "0.18"
+    },
+    {
+      "name": "mighty servant of leuk-o",
+      "count": 1,
+      "usd_value": "0.18"
+    },
+    {
+      "name": "scytheclaw",
+      "count": 1,
+      "usd_value": "0.18"
+    },
+    {
+      "name": "camaraderie",
+      "count": 1,
+      "usd_value": "0.18"
+    },
+    {
+      "name": "ghastly conscription",
+      "count": 1,
+      "usd_value": "0.18"
+    },
+    {
+      "name": "soul transfer",
+      "count": 2,
+      "usd_value": "0.18"
+    },
+    {
+      "name": "sakashima's will",
+      "count": 1,
+      "usd_value": "0.18"
+    },
+    {
+      "name": "gideon's battle cry",
+      "count": 2,
+      "usd_value": "0.18"
+    },
+    {
+      "name": "temple of deceit",
+      "count": 1,
+      "usd_value": "0.17"
+    },
+    {
+      "name": "temple of epiphany",
+      "count": 2,
+      "usd_value": "0.17"
+    },
+    {
+      "name": "gale, waterdeep prodigy",
+      "count": 1,
+      "usd_value": "0.17"
+    },
+    {
+      "name": "hidetsugu, devouring chaos",
+      "count": 1,
+      "usd_value": "0.17"
+    },
+    {
+      "name": "intellect devourer",
+      "count": 2,
+      "usd_value": "0.17"
+    },
+    {
+      "name": "victory's envoy",
+      "count": 1,
+      "usd_value": "0.17"
+    },
+    {
+      "name": "geode rager",
+      "count": 1,
+      "usd_value": "0.17"
+    },
+    {
+      "name": "gallia of the endless dance",
+      "count": 1,
+      "usd_value": "0.17"
+    },
+    {
+      "name": "nissa's renewal",
+      "count": 1,
+      "usd_value": "0.17"
+    },
+    {
+      "name": "nissa's renewal",
+      "count": 1,
+      "usd_value": "0.17"
+    },
+    {
+      "name": "mossfire valley",
+      "count": 1,
+      "usd_value": "0.16"
+    },
+    {
+      "name": "shadowblood ridge",
+      "count": 1,
+      "usd_value": "0.16"
+    },
+    {
+      "name": "windbrisk heights",
+      "count": 1,
+      "usd_value": "0.16"
+    },
+    {
+      "name": "bladegriff prototype",
+      "count": 1,
+      "usd_value": "0.16"
+    },
+    {
+      "name": "master of etherium",
+      "count": 1,
+      "usd_value": "0.16"
+    },
+    {
+      "name": "sludge monster",
+      "count": 1,
+      "usd_value": "0.16"
+    },
+    {
+      "name": "niblis of frost",
+      "count": 1,
+      "usd_value": "0.16"
+    },
+    {
+      "name": "illithid harvester",
+      "count": 3,
+      "usd_value": "0.16"
+    },
+    {
+      "name": "sengir, the dark baron",
+      "count": 1,
+      "usd_value": "0.16"
+    },
+    {
+      "name": "elvish dreadlord",
+      "count": 2,
+      "usd_value": "0.16"
+    },
+    {
+      "name": "kagha, shadow archdruid",
+      "count": 1,
+      "usd_value": "0.16"
+    },
+    {
+      "name": "treeshaker chimera",
+      "count": 1,
+      "usd_value": "0.16"
+    },
+    {
+      "name": "phoenix of ash",
+      "count": 1,
+      "usd_value": "0.16"
+    },
+    {
+      "name": "rageblood shaman",
+      "count": 1,
+      "usd_value": "0.16"
+    },
+    {
+      "name": "averna, the chaos bloom",
+      "count": 1,
+      "usd_value": "0.16"
+    },
+    {
+      "name": "noyan dar, roil shaper",
+      "count": 3,
+      "usd_value": "0.16"
+    },
+    {
+      "name": "starstorm",
+      "count": 1,
+      "usd_value": "0.16"
+    },
+    {
+      "name": "gild",
+      "count": 1,
+      "usd_value": "0.16"
+    },
+    {
+      "name": "crater's claws",
+      "count": 1,
+      "usd_value": "0.16"
+    },
+    {
+      "name": "sakashima's protege",
+      "count": 1,
+      "usd_value": "0.15"
+    },
+    {
+      "name": "rattlechains",
+      "count": 1,
+      "usd_value": "0.15"
+    },
+    {
+      "name": "prosperous thief",
+      "count": 1,
+      "usd_value": "0.15"
+    },
+    {
+      "name": "eligeth, crossroads augur",
+      "count": 1,
+      "usd_value": "0.15"
+    },
+    {
+      "name": "nighthowler",
+      "count": 1,
+      "usd_value": "0.15"
+    },
+    {
+      "name": "erinis, gloom stalker",
+      "count": 2,
+      "usd_value": "0.15"
+    },
+    {
+      "name": "deranged outcast",
+      "count": 1,
+      "usd_value": "0.15"
+    },
+    {
+      "name": "dragon-style twins",
+      "count": 1,
+      "usd_value": "0.15"
+    },
+    {
+      "name": "grim lavamancer",
+      "count": 1,
+      "usd_value": "0.15"
+    },
+    {
+      "name": "living twister",
+      "count": 1,
+      "usd_value": "0.15"
+    },
+    {
+      "name": "emmara tandris",
+      "count": 1,
+      "usd_value": "0.15"
+    },
+    {
+      "name": "charcoal diamond",
+      "count": 1,
+      "usd_value": "0.15"
+    },
+    {
+      "name": "visions of dread",
+      "count": 1,
+      "usd_value": "0.15"
+    },
+    {
+      "name": "mindblaze",
+      "count": 1,
+      "usd_value": "0.15"
+    },
+    {
+      "name": "temple of triumph",
+      "count": 1,
+      "usd_value": "0.14"
+    },
+    {
+      "name": "despoiler of souls",
+      "count": 1,
+      "usd_value": "0.14"
+    },
+    {
+      "name": "toolcraft exemplar",
+      "count": 1,
+      "usd_value": "0.14"
+    },
+    {
+      "name": "teshar, ancestor's apostle",
+      "count": 1,
+      "usd_value": "0.14"
+    },
+    {
+      "name": "silver-fur, master",
+      "count": 1,
+      "usd_value": "0.14"
+    },
+    {
+      "name": "risona, asari commander",
+      "count": 1,
+      "usd_value": "0.14"
+    },
+    {
+      "name": "reinforced ronin",
+      "count": 1,
+      "usd_value": "0.14"
+    },
+    {
+      "name": "fervent champion",
+      "count": 1,
+      "usd_value": "0.14"
+    },
+    {
+      "name": "polymorphous rush",
+      "count": 1,
+      "usd_value": "0.14"
+    },
+    {
+      "name": "gale's redirection",
+      "count": 1,
+      "usd_value": "0.14"
+    },
+    {
+      "name": "mizzium tank",
+      "count": 1,
+      "usd_value": "0.14"
+    },
+    {
+      "name": "snow-covered plains",
+      "count": 2,
+      "usd_value": "0.13"
+    },
+    {
+      "name": "nascent metamorph",
+      "count": 1,
+      "usd_value": "0.13"
+    },
+    {
+      "name": "patrician geist",
+      "count": 1,
+      "usd_value": "0.13"
+    },
+    {
+      "name": "kyodai, soul of kamigawa",
+      "count": 1,
+      "usd_value": "0.13"
+    },
+    {
+      "name": "acclaimed contender",
+      "count": 1,
+      "usd_value": "0.13"
+    },
+    {
+      "name": "jon irenicus, shattered one",
+      "count": 1,
+      "usd_value": "0.13"
+    },
+    {
+      "name": "ivorytusk fortress",
+      "count": 1,
+      "usd_value": "0.13"
+    },
+    {
+      "name": "biowaste blob",
+      "count": 1,
+      "usd_value": "0.13"
+    },
+    {
+      "name": "myojin of towering might",
+      "count": 1,
+      "usd_value": "0.13"
+    },
+    {
+      "name": "hoard-smelter dragon",
+      "count": 2,
+      "usd_value": "0.13"
+    },
+    {
+      "name": "myrkul, lord of bones",
+      "count": 1,
+      "usd_value": "0.13"
+    },
+    {
+      "name": "tymaret, the murder king",
+      "count": 1,
+      "usd_value": "0.13"
+    },
+    {
+      "name": "duke ulder ravengard",
+      "count": 1,
+      "usd_value": "0.13"
+    },
+    {
+      "name": "cultist of the absolute",
+      "count": 1,
+      "usd_value": "0.13"
+    },
+    {
+      "name": "curse of leeches",
+      "count": 1,
+      "usd_value": "0.13"
+    },
+    {
+      "name": "aid from the cowl",
+      "count": 1,
+      "usd_value": "0.13"
+    },
+    {
+      "name": "curse of surveillance",
+      "count": 1,
+      "usd_value": "0.13"
+    },
+    {
+      "name": "noble heritage",
+      "count": 1,
+      "usd_value": "0.13"
+    },
+    {
+      "name": "martial law",
+      "count": 1,
+      "usd_value": "0.13"
+    },
+    {
+      "name": "together forever",
+      "count": 1,
+      "usd_value": "0.13"
+    },
+    {
+      "name": "strength of the tajuru",
+      "count": 1,
+      "usd_value": "0.13"
+    },
+    {
+      "name": "sky diamond",
+      "count": 1,
+      "usd_value": "0.13"
+    },
+    {
+      "name": "whispersteel dagger",
+      "count": 1,
+      "usd_value": "0.13"
+    },
+    {
+      "name": "stolen identity",
+      "count": 1,
+      "usd_value": "0.13"
+    },
+    {
+      "name": "fae of wishes",
+      "count": 1,
+      "usd_value": "0.12"
+    },
+    {
+      "name": "dungeon geists",
+      "count": 2,
+      "usd_value": "0.12"
+    },
+    {
+      "name": "tameshi, reality architect",
+      "count": 2,
+      "usd_value": "0.12"
+    },
+    {
+      "name": "scion of vitu-ghazi",
+      "count": 1,
+      "usd_value": "0.12"
+    },
+    {
+      "name": "hero of goma fada",
+      "count": 2,
+      "usd_value": "0.12"
+    },
+    {
+      "name": "gilanra, caller of wirewood",
+      "count": 1,
+      "usd_value": "0.12"
+    },
+    {
+      "name": "sylvan advocate",
+      "count": 1,
+      "usd_value": "0.12"
+    },
+    {
+      "name": "architect of the untamed",
+      "count": 1,
+      "usd_value": "0.12"
+    },
+    {
+      "name": "charmbreaker devils",
+      "count": 1,
+      "usd_value": "0.12"
+    },
+    {
+      "name": "jan jansen, chaos, crafter",
+      "count": 1,
+      "usd_value": "0.12"
+    },
+    {
+      "name": "lozhan, dragons' legacy",
+      "count": 2,
+      "usd_value": "0.12"
+    },
+    {
+      "name": "dust stalker",
+      "count": 1,
+      "usd_value": "0.12"
+    },
+    {
+      "name": "astarion, the decadent",
+      "count": 1,
+      "usd_value": "0.12"
+    },
+    {
+      "name": "oji, the exquisite blade",
+      "count": 1,
+      "usd_value": "0.12"
+    },
+    {
+      "name": "popular entertainer",
+      "count": 1,
+      "usd_value": "0.12"
+    },
+    {
+      "name": "march of burgeoning life",
+      "count": 1,
+      "usd_value": "0.12"
+    },
+    {
+      "name": "revel in silence",
+      "count": 1,
+      "usd_value": "0.12"
+    },
+    {
+      "name": "ruinous path",
+      "count": 1,
+      "usd_value": "0.12"
+    },
+    {
+      "name": "desolate lighthouse",
+      "count": 1,
+      "usd_value": "0.11"
+    },
+    {
+      "name": "eon frolicker",
+      "count": 1,
+      "usd_value": "0.11"
+    },
+    {
+      "name": "omnispell adept",
+      "count": 1,
+      "usd_value": "0.11"
+    },
+    {
+      "name": "myojin of grim betrayal",
+      "count": 1,
+      "usd_value": "0.11"
+    },
+    {
+      "name": "harper recruiter",
+      "count": 1,
+      "usd_value": "0.11"
+    },
+    {
+      "name": "taranika, akroan veteran",
+      "count": 1,
+      "usd_value": "0.11"
+    },
+    {
+      "name": "munda's vanguard",
+      "count": 1,
+      "usd_value": "0.11"
+    },
+    {
+      "name": "angel of deliverance",
+      "count": 1,
+      "usd_value": "0.11"
+    },
+    {
+      "name": "commander liara portyr",
+      "count": 3,
+      "usd_value": "0.11"
+    },
+    {
+      "name": "wild beastmaster",
+      "count": 1,
+      "usd_value": "0.11"
+    },
+    {
+      "name": "dire-strain demolisher",
+      "count": 1,
+      "usd_value": "0.11"
+    },
+    {
+      "name": "goblin dark-dwellers",
+      "count": 1,
+      "usd_value": "0.11"
+    },
+    {
+      "name": "amplifire",
+      "count": 1,
+      "usd_value": "0.11"
+    },
+    {
+      "name": "gut, true soul zealot",
+      "count": 1,
+      "usd_value": "0.11"
+    },
+    {
+      "name": "rowan's stalwarts",
+      "count": 2,
+      "usd_value": "0.11"
+    },
+    {
+      "name": "anax, hardened in the forge",
+      "count": 1,
+      "usd_value": "0.11"
+    },
+    {
+      "name": "zevlor, elturel exile",
+      "count": 2,
+      "usd_value": "0.11"
+    },
+    {
+      "name": "orah, skyclave hierophant",
+      "count": 1,
+      "usd_value": "0.11"
+    },
+    {
+      "name": "korlessa, scale singer",
+      "count": 1,
+      "usd_value": "0.11"
+    },
+    {
+      "name": "magmaquake",
+      "count": 1,
+      "usd_value": "0.11"
+    },
+    {
+      "name": "decoy gambit",
+      "count": 1,
+      "usd_value": "0.11"
+    },
+    {
+      "name": "citywide bust",
+      "count": 1,
+      "usd_value": "0.11"
+    },
+    {
+      "name": "hanged executioner",
+      "count": 1,
+      "usd_value": "0.10"
+    },
+    {
+      "name": "baba lysaga, night witch",
+      "count": 1,
+      "usd_value": "0.10"
+    },
+    {
+      "name": "hound tamer",
+      "count": 1,
+      "usd_value": "0.10"
+    },
+    {
+      "name": "bristling hydra",
+      "count": 1,
+      "usd_value": "0.10"
+    },
+    {
+      "name": "spring-leaf avenger",
+      "count": 3,
+      "usd_value": "0.10"
+    },
+    {
+      "name": "village watch",
+      "count": 2,
+      "usd_value": "0.10"
+    },
+    {
+      "name": "bane, lord of darkness",
+      "count": 2,
+      "usd_value": "0.10"
+    },
+    {
+      "name": "minthara, merciless soul",
+      "count": 1,
+      "usd_value": "0.10"
+    },
+    {
+      "name": "wort, the raidmother",
+      "count": 1,
+      "usd_value": "0.10"
+    },
+    {
+      "name": "daxos of meletis",
+      "count": 1,
+      "usd_value": "0.10"
+    },
+    {
+      "name": "fated intervention",
+      "count": 1,
+      "usd_value": "0.10"
+    },
+    {
+      "name": "surgehacker mech",
+      "count": 1,
+      "usd_value": "0.10"
+    },
+    {
+      "name": "lavabrink floodgates",
+      "count": 1,
+      "usd_value": "0.10"
+    },
+    {
+      "name": "sculpted sunburst",
+      "count": 1,
+      "usd_value": "0.10"
+    },
+    {
+      "name": "mobilized district",
+      "count": 2,
+      "usd_value": "0.09"
+    },
+    {
+      "name": "imoen, mystic trickster",
+      "count": 1,
+      "usd_value": "0.09"
+    },
+    {
+      "name": "guul draz overseer",
+      "count": 1,
+      "usd_value": "0.09"
+    },
+    {
+      "name": "livio, oathsworn sentinel",
+      "count": 1,
+      "usd_value": "0.09"
+    },
+    {
+      "name": "angelic captain",
+      "count": 4,
+      "usd_value": "0.09"
+    },
+    {
+      "name": "wakeroot elemental",
+      "count": 1,
+      "usd_value": "0.09"
+    },
+    {
+      "name": "skanos, dragonheart",
+      "count": 1,
+      "usd_value": "0.09"
+    },
+    {
+      "name": "scrap welder",
+      "count": 1,
+      "usd_value": "0.09"
+    },
+    {
+      "name": "shivan dragon",
+      "count": 4,
+      "usd_value": "0.09"
+    },
+    {
+      "name": "dynaheir, invoker adept",
+      "count": 1,
+      "usd_value": "0.09"
+    },
+    {
+      "name": "nine-fingers keene",
+      "count": 1,
+      "usd_value": "0.09"
+    },
+    {
+      "name": "jared carthalion, true heir",
+      "count": 1,
+      "usd_value": "0.09"
+    },
+    {
+      "name": "the dragon-kami reborn",
+      "count": 2,
+      "usd_value": "0.09"
+    },
+    {
+      "name": "ion storm",
+      "count": 1,
+      "usd_value": "0.09"
+    },
+    {
+      "name": "moss diamond",
+      "count": 3,
+      "usd_value": "0.09"
+    },
+    {
+      "name": "cloak of the bat",
+      "count": 2,
+      "usd_value": "0.09"
+    },
+    {
+      "name": "eiganjo uprising",
+      "count": 2,
+      "usd_value": "0.09"
+    },
+    {
+      "name": "invoke the ancients",
+      "count": 1,
+      "usd_value": "0.09"
+    },
+    {
+      "name": "lunar mystic",
+      "count": 1,
+      "usd_value": "0.08"
+    },
+    {
+      "name": "nezumi prowler",
+      "count": 1,
+      "usd_value": "0.08"
+    },
+    {
+      "name": "safana, calimport cutthroat",
+      "count": 1,
+      "usd_value": "0.08"
     },
     {
       "name": "sivriss, nightmare speaker",
@@ -611,159 +2706,9 @@
       "usd_value": "0.08"
     },
     {
-      "name": "solemn doomguide",
-      "count": 1,
-      "usd_value": "0.06"
-    },
-    {
-      "name": "ravenloft adventurer",
-      "count": 1,
-      "usd_value": "0.27"
-    },
-    {
-      "name": "dokuchi silencer",
-      "count": 1,
-      "usd_value": "0.06"
-    },
-    {
-      "name": "opposition agent",
-      "count": 1,
-      "usd_value": "14.46"
-    },
-    {
-      "name": "oathsworn knight",
-      "count": 1,
-      "usd_value": "0.19"
-    },
-    {
-      "name": "vilis, broker of blood",
-      "count": 1,
-      "usd_value": "6.09"
-    },
-    {
-      "name": "sengir, the dark baron",
-      "count": 1,
-      "usd_value": "0.16"
-    },
-    {
-      "name": "biting-palm ninja",
-      "count": 2,
-      "usd_value": "0.21"
-    },
-    {
-      "name": "blade of the oni",
-      "count": 2,
-      "usd_value": "0.43"
-    },
-    {
-      "name": "mukotai ambusher",
-      "count": 3,
-      "usd_value": "0.07"
-    },
-    {
-      "name": "dokuchi shadow-walker",
-      "count": 3,
-      "usd_value": "0.01"
-    },
-    {
-      "name": "elvish dreadlord",
-      "count": 2,
-      "usd_value": "0.16"
-    },
-    {
-      "name": "nezumi bladeblesser",
-      "count": 2,
-      "usd_value": "0.05"
-    },
-    {
-      "name": "intellect devourer",
-      "count": 2,
-      "usd_value": "0.18"
-    },
-    {
-      "name": "shady traveler",
-      "count": 5,
-      "usd_value": "0.02"
-    },
-    {
-      "name": "champion of stray souls",
-      "count": 2,
-      "usd_value": "0.22"
-    },
-    {
-      "name": "inkrise infiltrator",
-      "count": 5,
-      "usd_value": "0.03"
-    },
-    {
       "name": "daring archaeologist",
       "count": 1,
       "usd_value": "0.08"
-    },
-    {
-      "name": "norika yamazaki, the poet",
-      "count": 2,
-      "usd_value": "0.05"
-    },
-    {
-      "name": "eiganjo exemplar",
-      "count": 2,
-      "usd_value": "0.02"
-    },
-    {
-      "name": "lae'zel vlaakith's champion",
-      "count": 1,
-      "usd_value": "1.08"
-    },
-    {
-      "name": "harper recruiter",
-      "count": 1,
-      "usd_value": "0.11"
-    },
-    {
-      "name": "kyodai, soul of kamigawa",
-      "count": 1,
-      "usd_value": "0.14"
-    },
-    {
-      "name": "ancient gold dragon",
-      "count": 1,
-      "usd_value": "8.77"
-    },
-    {
-      "name": "ellyn harbreeze, busybody",
-      "count": 1,
-      "usd_value": "0.05"
-    },
-    {
-      "name": "weathered wayfarer",
-      "count": 1,
-      "usd_value": "1.65"
-    },
-    {
-      "name": "michiko konda, truth seeker",
-      "count": 1,
-      "usd_value": "3.85"
-    },
-    {
-      "name": "brutal cathar",
-      "count": 2,
-      "usd_value": "3.70"
-    },
-    {
-      "name": "sungold sentinel",
-      "count": 1,
-      "usd_value": "0.06"
-    },
-    {
-      "name": "keeper of the accord",
-      "count": 1,
-      "usd_value": "1.79"
-    },
-    {
-      "name": "toolcraft exemplar",
-      "count": 1,
-      "usd_value": "0.14"
     },
     {
       "name": "high sentinels of arashin",
@@ -771,399 +2716,14 @@
       "usd_value": "0.08"
     },
     {
-      "name": "esper sentinel",
-      "count": 1,
-      "usd_value": "23.41"
-    },
-    {
-      "name": "teshar, ancestor's apostle",
-      "count": 1,
-      "usd_value": "0.14"
-    },
-    {
-      "name": "acclaimed contender",
-      "count": 1,
-      "usd_value": "0.13"
-    },
-    {
-      "name": "angelic guardian",
-      "count": 1,
-      "usd_value": "6.53"
-    },
-    {
-      "name": "archon of coronation",
-      "count": 1,
-      "usd_value": "0.31"
-    },
-    {
-      "name": "faerie guidemother",
-      "count": 1,
-      "usd_value": "0.04"
-    },
-    {
-      "name": "giant killer",
-      "count": 2,
-      "usd_value": "0.19"
-    },
-    {
-      "name": "god-eternal oketra",
-      "count": 1,
-      "usd_value": "5.48"
-    },
-    {
-      "name": "taranika, akroan veteran",
-      "count": 1,
-      "usd_value": "0.11"
-    },
-    {
-      "name": "victory's envoy",
-      "count": 1,
-      "usd_value": "0.18"
-    },
-    {
-      "name": "hanged executioner",
-      "count": 1,
-      "usd_value": "0.10"
-    },
-    {
-      "name": "majestic auricorn",
-      "count": 1,
-      "usd_value": "0.05"
-    },
-    {
       "name": "loxodon lifechanter",
       "count": 2,
       "usd_value": "0.08"
     },
     {
-      "name": "tomik, distinguished advokist",
-      "count": 1,
-      "usd_value": "0.24"
-    },
-    {
-      "name": "wingmate roc",
-      "count": 1,
-      "usd_value": "0.26"
-    },
-    {
-      "name": "avacyn, angel of hope",
-      "count": 1,
-      "usd_value": "44.25"
-    },
-    {
-      "name": "zetalpa, primal dawn",
-      "count": 1,
-      "usd_value": "0.29"
-    },
-    {
-      "name": "livio, oathsworn sentinel",
-      "count": 1,
-      "usd_value": "0.09"
-    },
-    {
-      "name": "highcliff felidar",
-      "count": 1,
-      "usd_value": "0.00"
-    },
-    {
-      "name": "sun titan",
-      "count": 1,
-      "usd_value": "0.47"
-    },
-    {
-      "name": "trove warden",
-      "count": 1,
-      "usd_value": "0.28"
-    },
-    {
-      "name": "kytheon's irregulars",
-      "count": 1,
-      "usd_value": "0.21"
-    },
-    {
-      "name": "munda's vanguard",
-      "count": 1,
-      "usd_value": "0.11"
-    },
-    {
-      "name": "light of the legion",
-      "count": 1,
-      "usd_value": "0.20"
-    },
-    {
-      "name": "scion of vitu-ghazi",
-      "count": 1,
-      "usd_value": "0.12"
-    },
-    {
-      "name": "angel of deliverance",
-      "count": 1,
-      "usd_value": "0.11"
-    },
-    {
-      "name": "stonehewer giant",
-      "count": 1,
-      "usd_value": "3.87"
-    },
-    {
-      "name": "hero of goma fada",
-      "count": 2,
-      "usd_value": "0.12"
-    },
-    {
-      "name": "serra's guardian",
-      "count": 2,
-      "usd_value": "0.36"
-    },
-    {
-      "name": "blade-blizzard kitsune",
-      "count": 2,
-      "usd_value": "0.03"
-    },
-    {
-      "name": "sunblade samurai",
-      "count": 3,
-      "usd_value": "0.02"
-    },
-    {
-      "name": "candlegrove witch",
-      "count": 4,
-      "usd_value": "0.03"
-    },
-    {
-      "name": "imperial subduer",
-      "count": 2,
-      "usd_value": "0.01"
-    },
-    {
-      "name": "light-paws, emperor's voice",
-      "count": 3,
-      "usd_value": "0.42"
-    },
-    {
-      "name": "sephara, sky's blade",
-      "count": 2,
-      "usd_value": "2.81"
-    },
-    {
-      "name": "doomgape",
-      "count": 1,
-      "usd_value": "0.24"
-    },
-    {
-      "name": "izoni,thousand-eyed",
-      "count": 1,
-      "usd_value": "0.64"
-    },
-    {
-      "name": "kagha, shadow archdruid",
-      "count": 1,
-      "usd_value": "0.16"
-    },
-    {
-      "name": "baba lysaga, night witch",
-      "count": 1,
-      "usd_value": "0.11"
-    },
-    {
-      "name": "silver-fur, master",
-      "count": 1,
-      "usd_value": "0.14"
-    },
-    {
-      "name": "satoru umezawa",
-      "count": 2,
-      "usd_value": "0.23"
-    },
-    {
-      "name": "wilhelt, the rotcleaver",
-      "count": 1,
-      "usd_value": "2.01"
-    },
-    {
-      "name": "consuming aberration",
-      "count": 1,
-      "usd_value": "0.20"
-    },
-    {
-      "name": "sygg, river cutthroat",
-      "count": 1,
-      "usd_value": "1.03"
-    },
-    {
-      "name": "notion thief",
-      "count": 1,
-      "usd_value": "1.16"
-    },
-    {
-      "name": "anowon, the ruin thief",
-      "count": 1,
-      "usd_value": "0.00"
-    },
-    {
-      "name": "fathom feeder",
-      "count": 1,
-      "usd_value": "0.25"
-    },
-    {
-      "name": "jon irenicus, shattered one",
-      "count": 1,
-      "usd_value": "0.13"
-    },
-    {
-      "name": "rilsa rael, kingpin",
-      "count": 1,
-      "usd_value": "0.07"
-    },
-    {
-      "name": "boros reckoner",
-      "count": 1,
-      "usd_value": "0.47"
-    },
-    {
-      "name": "swiftblade vindicator",
-      "count": 3,
-      "usd_value": "0.26"
-    },
-    {
-      "name": "angelic captain",
-      "count": 4,
-      "usd_value": "0.09"
-    },
-    {
-      "name": "blade historian",
-      "count": 1,
-      "usd_value": "2.58"
-    },
-    {
-      "name": "raiyuu, storm's edge",
-      "count": 2,
-      "usd_value": "0.18"
-    },
-    {
-      "name": "risona, asari commander",
-      "count": 1,
-      "usd_value": "0.14"
-    },
-    {
-      "name": "aurelia, the warleader",
-      "count": 1,
-      "usd_value": "4.56"
-    },
-    {
-      "name": "agrus kos, wojek veteran",
-      "count": 1,
-      "usd_value": "0.30"
-    },
-    {
-      "name": "zirda, the dawnwaker",
-      "count": 1,
-      "usd_value": "0.37"
-    },
-    {
-      "name": "razia, boros archangel",
-      "count": 1,
-      "usd_value": "0.35"
-    },
-    {
       "name": "munda, ambush leader",
       "count": 2,
       "usd_value": "0.08"
-    },
-    {
-      "name": "commander liara portyr",
-      "count": 3,
-      "usd_value": "0.11"
-    },
-    {
-      "name": "anya, merciless angel",
-      "count": 1,
-      "usd_value": "0.00"
-    },
-    {
-      "name": "ivorytusk fortress",
-      "count": 1,
-      "usd_value": "0.13"
-    },
-    {
-      "name": "wild beastmaster",
-      "count": 1,
-      "usd_value": "0.11"
-    },
-    {
-      "name": "gilanra, caller of wirewood",
-      "count": 1,
-      "usd_value": "0.12"
-    },
-    {
-      "name": "voracious hydra",
-      "count": 1,
-      "usd_value": "2.99"
-    },
-    {
-      "name": "kami of transience",
-      "count": 2,
-      "usd_value": "0.22"
-    },
-    {
-      "name": "dire-strain brawler",
-      "count": 1,
-      "usd_value": "0.02"
-    },
-    {
-      "name": "wing shredder",
-      "count": 1,
-      "usd_value": "0.02"
-    },
-    {
-      "name": "treeshaker chimera",
-      "count": 1,
-      "usd_value": "0.15"
-    },
-    {
-      "name": "wicked wolf",
-      "count": 1,
-      "usd_value": "0.24"
-    },
-    {
-      "name": "dire-strain demolisher",
-      "count": 1,
-      "usd_value": "0.11"
-    },
-    {
-      "name": "vengevine",
-      "count": 1,
-      "usd_value": "4.32"
-    },
-    {
-      "name": "terastodon",
-      "count": 1,
-      "usd_value": "0.40"
-    },
-    {
-      "name": "kogla, the titan ape",
-      "count": 1,
-      "usd_value": "0.89"
-    },
-    {
-      "name": "ripjaw raptor",
-      "count": 1,
-      "usd_value": "3.51"
-    },
-    {
-      "name": "wakeroot elemental",
-      "count": 1,
-      "usd_value": "0.09"
-    },
-    {
-      "name": "earthshaker giant",
-      "count": 1,
-      "usd_value": "0.00"
-    },
-    {
-      "name": "ghalta, primal hunger",
-      "count": 1,
-      "usd_value": "3.66"
     },
     {
       "name": "ravenous gigantotherium",
@@ -1176,64 +2736,109 @@
       "usd_value": "0.08"
     },
     {
-      "name": "heir of the ancient fang",
-      "count": 1,
-      "usd_value": "0.01"
-    },
-    {
-      "name": "oviya pashiri, sage lifecrafter",
-      "count": 1,
-      "usd_value": "0.25"
-    },
-    {
-      "name": "kodama of the east tree",
-      "count": 1,
-      "usd_value": "3.19"
-    },
-    {
-      "name": "immaculate magistrate",
-      "count": 1,
-      "usd_value": "0.34"
-    },
-    {
-      "name": "skanos, dragonheart",
-      "count": 1,
-      "usd_value": "0.09"
-    },
-    {
-      "name": "erinis, gloom stalker",
-      "count": 2,
-      "usd_value": "0.15"
-    },
-    {
       "name": "wilson, refined grizzly",
+      "count": 1,
+      "usd_value": "0.08"
+    },
+    {
+      "name": "fangblade brigand",
+      "count": 1,
+      "usd_value": "0.08"
+    },
+    {
+      "name": "mazzy, truesword paladin",
+      "count": 1,
+      "usd_value": "0.08"
+    },
+    {
+      "name": "multiclass baldric",
+      "count": 1,
+      "usd_value": "0.08"
+    },
+    {
+      "name": "sever the bloodline",
+      "count": 1,
+      "usd_value": "0.08"
+    },
+    {
+      "name": "radiant flames",
+      "count": 1,
+      "usd_value": "0.08"
+    },
+    {
+      "name": "kheru spellsnatcher",
       "count": 1,
       "usd_value": "0.07"
     },
     {
-      "name": "halsin, emerald archdruid",
+      "name": "gravewaker",
       "count": 1,
-      "usd_value": "0.05"
+      "usd_value": "0.07"
     },
     {
-      "name": "hound tamer",
+      "name": "silumgar assassin",
       "count": 1,
-      "usd_value": "0.10"
+      "usd_value": "0.07"
     },
     {
-      "name": "rampaging baloths",
-      "count": 1,
-      "usd_value": "0.36"
+      "name": "mukotai ambusher",
+      "count": 3,
+      "usd_value": "0.07"
     },
     {
-      "name": "multani, yavimaya's avatar",
+      "name": "rilsa rael, kingpin",
       "count": 1,
-      "usd_value": "1.87"
+      "usd_value": "0.07"
     },
     {
-      "name": "sylvan advocate",
+      "name": "ogre-head helm",
       "count": 1,
-      "usd_value": "0.12"
+      "usd_value": "0.07"
+    },
+    {
+      "name": "gnostro, voice of the crags",
+      "count": 1,
+      "usd_value": "0.07"
+    },
+    {
+      "name": "prism array",
+      "count": 1,
+      "usd_value": "0.07"
+    },
+    {
+      "name": "call to the void",
+      "count": 1,
+      "usd_value": "0.07"
+    },
+    {
+      "name": "marching duodrone",
+      "count": 1,
+      "usd_value": "0.06"
+    },
+    {
+      "name": "laboratory drudge",
+      "count": 1,
+      "usd_value": "0.06"
+    },
+    {
+      "name": "viconia, drow apostate",
+      "count": 1,
+      "usd_value": "0.06"
+    },
+    {
+      "name": "solemn doomguide",
+      "count": 1,
+      "usd_value": "0.06"
+    },
+    {
+      "name": "dokuchi silencer",
+      "count": 1,
+      "usd_value": "0.06"
+    },
+    {
+      "name": "sungold sentinel",
+      "count": 1,
+      "usd_value": "0.06"
     },
     {
       "name": "kappa tech-wrecker",
@@ -1248,62 +2853,172 @@
     {
       "name": "fang of shigeki",
       "count": 1,
+      "usd_value": "0.06"
+    },
+    {
+      "name": "djinn illuminatus",
+      "count": 1,
+      "usd_value": "0.06"
+    },
+    {
+      "name": "master chef",
+      "count": 1,
+      "usd_value": "0.06"
+    },
+    {
+      "name": "street urchin",
+      "count": 1,
+      "usd_value": "0.06"
+    },
+    {
+      "name": "shameless charlatan",
+      "count": 1,
+      "usd_value": "0.06"
+    },
+    {
+      "name": "spinal embrace",
+      "count": 1,
+      "usd_value": "0.06"
+    },
+    {
+      "name": "mukotai soulripper",
+      "count": 1,
+      "usd_value": "0.06"
+    },
+    {
+      "name": "repeating barrage",
+      "count": 1,
+      "usd_value": "0.06"
+    },
+    {
+      "name": "planar outburst",
+      "count": 2,
+      "usd_value": "0.06"
+    },
+    {
+      "name": "nezumi bladeblesser",
+      "count": 2,
       "usd_value": "0.05"
     },
     {
-      "name": "jaheira, friend of the forest",
-      "count": 1,
-      "usd_value": "5.59"
+      "name": "norika yamazaki, the poet",
+      "count": 2,
+      "usd_value": "0.05"
     },
     {
-      "name": "biowaste blob",
+      "name": "ellyn harbreeze, busybody",
       "count": 1,
-      "usd_value": "0.13"
+      "usd_value": "0.05"
     },
     {
-      "name": "apex devastator",
+      "name": "majestic auricorn",
       "count": 1,
-      "usd_value": "12.46"
+      "usd_value": "0.05"
     },
     {
-      "name": "bristling hydra",
+      "name": "halsin, emerald archdruid",
       "count": 1,
-      "usd_value": "0.10"
+      "usd_value": "0.05"
     },
     {
-      "name": "renegade krasis",
-      "count": 1,
-      "usd_value": "0.24"
+      "name": "Bhaal, Lord of Murder",
+      "count": 2,
+      "usd_value": "0.05"
     },
     {
-      "name": "architect of the untamed",
+      "name": "alaundo the seer",
       "count": 1,
-      "usd_value": "0.12"
+      "usd_value": "0.05"
     },
     {
-      "name": "cylian sunsinger",
-      "count": 1,
-      "usd_value": "0.29"
+      "name": "moonsnare specialist",
+      "count": 7,
+      "usd_value": "0.04"
     },
     {
-      "name": "myojin of towering might",
+      "name": "faerie guidemother",
       "count": 1,
-      "usd_value": "0.13"
+      "usd_value": "0.04"
     },
     {
-      "name": "deranged outcast",
-      "count": 1,
-      "usd_value": "0.15"
+      "name": "peerless samurai",
+      "count": 2,
+      "usd_value": "0.04"
     },
     {
-      "name": "soul of zendikar",
-      "count": 1,
-      "usd_value": "0.23"
+      "name": "heiko yamazaki, the general",
+      "count": 2,
+      "usd_value": "0.04"
     },
     {
-      "name": "dawnhart rejuvenator",
+      "name": "adventurous impulse",
+      "count": 1,
+      "usd_value": "0.04"
+    },
+    {
+      "name": "baneblade scoundrel",
+      "count": 1,
+      "usd_value": "0.03"
+    },
+    {
+      "name": "inkrise infiltrator",
+      "count": 5,
+      "usd_value": "0.03"
+    },
+    {
+      "name": "blade-blizzard kitsune",
+      "count": 2,
+      "usd_value": "0.03"
+    },
+    {
+      "name": "candlegrove witch",
       "count": 4,
-      "usd_value": "0.01"
+      "usd_value": "0.03"
+    },
+    {
+      "name": "coiling stalker",
+      "count": 3,
+      "usd_value": "0.03"
+    },
+    {
+      "name": "dawnhart wardens",
+      "count": 2,
+      "usd_value": "0.03"
+    },
+    {
+      "name": "scion of halaster",
+      "count": 1,
+      "usd_value": "0.03"
+    },
+    {
+      "name": "faithless salvaging",
+      "count": 1,
+      "usd_value": "0.03"
+    },
+    {
+      "name": "shady traveler",
+      "count": 5,
+      "usd_value": "0.02"
+    },
+    {
+      "name": "eiganjo exemplar",
+      "count": 2,
+      "usd_value": "0.02"
+    },
+    {
+      "name": "sunblade samurai",
+      "count": 3,
+      "usd_value": "0.02"
+    },
+    {
+      "name": "dire-strain brawler",
+      "count": 1,
+      "usd_value": "0.02"
+    },
+    {
+      "name": "wing shredder",
+      "count": 1,
+      "usd_value": "0.02"
     },
     {
       "name": "jukai trainee",
@@ -1316,194 +3031,9 @@
       "usd_value": "0.02"
     },
     {
-      "name": "outland liberator",
-      "count": 2,
-      "usd_value": "0.40"
-    },
-    {
-      "name": "dawnhart mentor",
-      "count": 2,
-      "usd_value": "0.01"
-    },
-    {
-      "name": "noble hierarch",
-      "count": 2,
-      "usd_value": "9.93"
-    },
-    {
       "name": "tireless hauler",
       "count": 2,
       "usd_value": "0.02"
-    },
-    {
-      "name": "warden of the first tree",
-      "count": 2,
-      "usd_value": "0.26"
-    },
-    {
-      "name": "weaver of harmony",
-      "count": 2,
-      "usd_value": "3.36"
-    },
-    {
-      "name": "coiling stalker",
-      "count": 3,
-      "usd_value": "0.03"
-    },
-    {
-      "name": "spring-leaf avenger",
-      "count": 3,
-      "usd_value": "0.10"
-    },
-    {
-      "name": "dryad of the ilysian grove",
-      "count": 3,
-      "usd_value": "11.88"
-    },
-    {
-      "name": "kura, the boundless sky",
-      "count": 2,
-      "usd_value": "1.90"
-    },
-    {
-      "name": "terror of mount velus",
-      "count": 1,
-      "usd_value": "1.08"
-    },
-    {
-      "name": "dreadhorde arcanist",
-      "count": 1,
-      "usd_value": "1.01"
-    },
-    {
-      "name": "marauding raptor",
-      "count": 1,
-      "usd_value": "2.08"
-    },
-    {
-      "name": "fiendish duo",
-      "count": 1,
-      "usd_value": "0.00"
-    },
-    {
-      "name": "akoum hellkite",
-      "count": 1,
-      "usd_value": "0.40"
-    },
-    {
-      "name": "captain lannery storm",
-      "count": 1,
-      "usd_value": "0.19"
-    },
-    {
-      "name": "phoenix of ash",
-      "count": 1,
-      "usd_value": "0.16"
-    },
-    {
-      "name": "sin prodder",
-      "count": 1,
-      "usd_value": "0.27"
-    },
-    {
-      "name": "legion loyalist",
-      "count": 1,
-      "usd_value": "7.76"
-    },
-    {
-      "name": "immolation shaman",
-      "count": 1,
-      "usd_value": "0.30"
-    },
-    {
-      "name": "charmbreaker devils",
-      "count": 1,
-      "usd_value": "0.13"
-    },
-    {
-      "name": "goblin dark-dwellers",
-      "count": 1,
-      "usd_value": "0.11"
-    },
-    {
-      "name": "dualcaster mage",
-      "count": 1,
-      "usd_value": "0.29"
-    },
-    {
-      "name": "smoldering egg",
-      "count": 1,
-      "usd_value": "0.40"
-    },
-    {
-      "name": "lathliss, dragon queen",
-      "count": 1,
-      "usd_value": "2.41"
-    },
-    {
-      "name": "rionya, fire dancer",
-      "count": 1,
-      "usd_value": "2.67"
-    },
-    {
-      "name": "amplifire",
-      "count": 1,
-      "usd_value": "0.11"
-    },
-    {
-      "name": "scrap welder",
-      "count": 1,
-      "usd_value": "0.09"
-    },
-    {
-      "name": "falkenrath pit fighter",
-      "count": 1,
-      "usd_value": "0.20"
-    },
-    {
-      "name": "fury",
-      "count": 1,
-      "usd_value": "36.81"
-    },
-    {
-      "name": "karlach, fury of avernus",
-      "count": 1,
-      "usd_value": "4.92"
-    },
-    {
-      "name": "gut, true soul zealot",
-      "count": 1,
-      "usd_value": "0.11"
-    },
-    {
-      "name": "ogre-head helm",
-      "count": 1,
-      "usd_value": "0.07"
-    },
-    {
-      "name": "lizard blades",
-      "count": 1,
-      "usd_value": "0.68"
-    },
-    {
-      "name": "immortal phoenix",
-      "count": 1,
-      "usd_value": "1.75"
-    },
-    {
-      "name": "rekindling phoenix",
-      "count": 1,
-      "usd_value": "0.27"
-    },
-    {
-      "name": "rageblood shaman",
-      "count": 1,
-      "usd_value": "0.16"
-    },
-    {
-      "name": "dragon-style twins",
-      "count": 1,
-      "usd_value": "0.15"
     },
     {
       "name": "labyrinth champion",
@@ -1511,139 +3041,69 @@
       "usd_value": "0.02"
     },
     {
-      "name": "magus of the moon",
-      "count": 1,
-      "usd_value": "6.52"
-    },
-    {
-      "name": "rowan's stalwarts",
-      "count": 2,
-      "usd_value": "0.11"
-    },
-    {
       "name": "akki ronin",
       "count": 3,
       "usd_value": "0.02"
     },
     {
-      "name": "monastery swiftspear",
-      "count": 1,
-      "usd_value": "0.23"
+      "name": "upriser renegade",
+      "count": 2,
+      "usd_value": "0.02"
     },
     {
-      "name": "fangblade brigand",
+      "name": "risen sanctuary",
       "count": 1,
-      "usd_value": "0.08"
+      "usd_value": "0.02"
+    },
+    {
+      "name": "tavern brawler",
+      "count": 1,
+      "usd_value": "0.02"
+    },
+    {
+      "name": "domestication",
+      "count": 1,
+      "usd_value": "0.02"
+    },
+    {
+      "name": "guardians of oboro",
+      "count": 5,
+      "usd_value": "0.01"
+    },
+    {
+      "name": "futurist operative",
+      "count": 3,
+      "usd_value": "0.01"
+    },
+    {
+      "name": "dokuchi shadow-walker",
+      "count": 3,
+      "usd_value": "0.01"
+    },
+    {
+      "name": "imperial subduer",
+      "count": 2,
+      "usd_value": "0.01"
+    },
+    {
+      "name": "heir of the ancient fang",
+      "count": 1,
+      "usd_value": "0.01"
+    },
+    {
+      "name": "dawnhart rejuvenator",
+      "count": 4,
+      "usd_value": "0.01"
+    },
+    {
+      "name": "dawnhart mentor",
+      "count": 2,
+      "usd_value": "0.01"
     },
     {
       "name": "gargadon",
       "count": 1,
       "usd_value": "0.01"
-    },
-    {
-      "name": "reinforced ronin",
-      "count": 1,
-      "usd_value": "0.14"
-    },
-    {
-      "name": "combustible gearhulk",
-      "count": 1,
-      "usd_value": "0.74"
-    },
-    {
-      "name": "thundering raiju",
-      "count": 1,
-      "usd_value": "0.22"
-    },
-    {
-      "name": "etali, primal storm",
-      "count": 1,
-      "usd_value": "0.48"
-    },
-    {
-      "name": "anax, hardened in the forge",
-      "count": 1,
-      "usd_value": "0.12"
-    },
-    {
-      "name": "fervent champion",
-      "count": 1,
-      "usd_value": "0.14"
-    },
-    {
-      "name": "lovisa coldeyes",
-      "count": 1,
-      "usd_value": "0.00"
-    },
-    {
-      "name": "grim lavamancer",
-      "count": 1,
-      "usd_value": "0.15"
-    },
-    {
-      "name": "ashcloud phoenix",
-      "count": 1,
-      "usd_value": "0.35"
-    },
-    {
-      "name": "flame-wreathed phoenix",
-      "count": 1,
-      "usd_value": "0.30"
-    },
-    {
-      "name": "flameblast dragon",
-      "count": 1,
-      "usd_value": "0.24"
-    },
-    {
-      "name": "geode rager",
-      "count": 1,
-      "usd_value": "0.16"
-    },
-    {
-      "name": "goro-goro, disciple of ryusei",
-      "count": 1,
-      "usd_value": "0.59"
-    },
-    {
-      "name": "verix bladewing",
-      "count": 1,
-      "usd_value": "0.74"
-    },
-    {
-      "name": "akoum firebird",
-      "count": 1,
-      "usd_value": "0.27"
-    },
-    {
-      "name": "moonveil regent",
-      "count": 1,
-      "usd_value": "0.51"
-    },
-    {
-      "name": "sunstreak phoenix",
-      "count": 1,
-      "usd_value": "0.24"
-    },
-    {
-      "name": "hoard-smelter dragon",
-      "count": 2,
-      "usd_value": "0.13"
-    },
-    {
-      "name": "shivan dragon",
-      "count": 4,
-      "usd_value": "0.09"
-    },
-    {
-      "name": "krenko, tin street kingpin",
-      "count": 2,
-      "usd_value": "0.87"
-    },
-    {
-      "name": "drakuseth, maw of flames",
-      "count": 2,
-      "usd_value": "0.74"
     },
     {
       "name": "harvesttide infiltrator",
@@ -1656,1509 +3116,49 @@
       "usd_value": "0.01"
     },
     {
-      "name": "glint-horn buccaneer",
-      "count": 2,
-      "usd_value": "0.95"
-    },
-    {
-      "name": "upriser renegade",
-      "count": 2,
-      "usd_value": "0.02"
-    },
-    {
-      "name": "peerless samurai",
-      "count": 2,
-      "usd_value": "0.04"
-    },
-    {
-      "name": "village watch",
-      "count": 2,
-      "usd_value": "0.10"
-    },
-    {
-      "name": "heiko yamazaki, the general",
-      "count": 2,
-      "usd_value": "0.04"
-    },
-    {
-      "name": "legion warboss",
-      "count": 2,
-      "usd_value": "0.37"
-    },
-    {
-      "name": "xyris, the writhing storm",
+      "name": "highcliff felidar",
       "count": 1,
-      "usd_value": "0.30"
+      "usd_value": "0.0"
     },
     {
-      "name": "averna, the chaos bloom",
+      "name": "anowon, the ruin thief",
       "count": 1,
-      "usd_value": "0.16"
+      "usd_value": "0.0"
     },
     {
-      "name": "kalamax, the stormsire",
+      "name": "anya, merciless angel",
       "count": 1,
-      "usd_value": "0.49"
+      "usd_value": "0.0"
     },
     {
-      "name": "bane, lord of darkness",
-      "count": 2,
-      "usd_value": "0.10"
-    },
-    {
-      "name": "myrkul, lord of bones",
+      "name": "earthshaker giant",
       "count": 1,
-      "usd_value": "0.13"
+      "usd_value": "0.0"
     },
     {
-      "name": "Bhaal, Lord of Murder",
-      "count": 2,
-      "usd_value": "0.05"
-    },
-    {
-      "name": "korvold, fae-cursed king",
+      "name": "fiendish duo",
       "count": 1,
-      "usd_value": "10.40"
+      "usd_value": "0.0"
     },
     {
-      "name": "gnostro, voice of the crags",
+      "name": "lovisa coldeyes",
       "count": 1,
-      "usd_value": "0.07"
-    },
-    {
-      "name": "dynaheir, invoker adept",
-      "count": 1,
-      "usd_value": "0.09"
-    },
-    {
-      "name": "zedruu the greathearted",
-      "count": 1,
-      "usd_value": "0.81"
-    },
-    {
-      "name": "yarok, the desecrated",
-      "count": 1,
-      "usd_value": "1.94"
-    },
-    {
-      "name": "nine-fingers keene",
-      "count": 1,
-      "usd_value": "0.10"
-    },
-    {
-      "name": "sidisi, brood tyrant",
-      "count": 1,
-      "usd_value": "0.28"
-    },
-    {
-      "name": "mazzy, truesword paladin",
-      "count": 1,
-      "usd_value": "0.06"
-    },
-    {
-      "name": "jared carthalion, true heir",
-      "count": 1,
-      "usd_value": "0.09"
+      "usd_value": "0.0"
     },
     {
       "name": "obuun, mul daya ancestor",
       "count": 1,
-      "usd_value": "0.00"
-    },
-    {
-      "name": "isshin, two heavens as one",
-      "count": 1,
-      "usd_value": "0.28"
-    },
-    {
-      "name": "jan jansen, chaos, crafter",
-      "count": 1,
-      "usd_value": "0.13"
-    },
-    {
-      "name": "zevlor, elturel exile",
-      "count": 2,
-      "usd_value": "0.11"
-    },
-    {
-      "name": "the kami war",
-      "count": 1,
-      "usd_value": "5.86"
-    },
-    {
-      "name": "niv-mizzet reborn",
-      "count": 1,
-      "usd_value": "0.98"
-    },
-    {
-      "name": "jhoira, weatherlight captain",
-      "count": 1,
-      "usd_value": "1.88"
-    },
-    {
-      "name": "zara, renegade recruiter",
-      "count": 1,
-      "usd_value": "0.18"
-    },
-    {
-      "name": "brudiclad, telchor engineer",
-      "count": 2,
-      "usd_value": "0.65"
-    },
-    {
-      "name": "melek izzet paragon",
-      "count": 1,
-      "usd_value": "0.27"
-    },
-    {
-      "name": "jhoira of the ghitu",
-      "count": 1,
-      "usd_value": "0.21"
-    },
-    {
-      "name": "lozhan, dragons' legacy",
-      "count": 2,
-      "usd_value": "0.12"
-    },
-    {
-      "name": "djinn illuminatus",
-      "count": 1,
-      "usd_value": "0.06"
-    },
-    {
-      "name": "dreadhorde butcher",
-      "count": 1,
-      "usd_value": "0.58"
-    },
-    {
-      "name": "falkenrath aristocrat",
-      "count": 1,
-      "usd_value": "0.31"
-    },
-    {
-      "name": "fulminator mage",
-      "count": 1,
-      "usd_value": "0.61"
-    },
-    {
-      "name": "underworld cerberus",
-      "count": 1,
-      "usd_value": "0.26"
-    },
-    {
-      "name": "tymaret, the murder king",
-      "count": 1,
-      "usd_value": "0.13"
-    },
-    {
-      "name": "dust stalker",
-      "count": 1,
-      "usd_value": "0.12"
-    },
-    {
-      "name": "astarion, the decadent",
-      "count": 1,
-      "usd_value": "0.12"
-    },
-    {
-      "name": "minthara, merciless soul",
-      "count": 1,
-      "usd_value": "0.11"
-    },
-    {
-      "name": "greasefang, okiba boss",
-      "count": 2,
-      "usd_value": "0.34"
-    },
-    {
-      "name": "orah, skyclave hierophant",
-      "count": 1,
-      "usd_value": "0.11"
-    },
-    {
-      "name": "mina and denn, wildborn",
-      "count": 2,
-      "usd_value": "0.61"
-    },
-    {
-      "name": "ruric thar, the unbowed",
-      "count": 2,
-      "usd_value": "0.31"
-    },
-    {
-      "name": "vexing shusher",
-      "count": 1,
-      "usd_value": "4.77"
-    },
-    {
-      "name": "gallia of the endless dance",
-      "count": 1,
-      "usd_value": "0.17"
-    },
-    {
-      "name": "borborygmos enraged",
-      "count": 1,
-      "usd_value": "0.69"
-    },
-    {
-      "name": "living twister",
-      "count": 1,
-      "usd_value": "0.15"
-    },
-    {
-      "name": "omnath, locus of rage",
-      "count": 1,
-      "usd_value": "3.61"
-    },
-    {
-      "name": "pako arcane retriever",
-      "count": 1,
-      "usd_value": "0.62"
-    },
-    {
-      "name": "wort, the raidmother",
-      "count": 1,
-      "usd_value": "0.09"
-    },
-    {
-      "name": "savageborn hydra",
-      "count": 1,
-      "usd_value": "0.34"
-    },
-    {
-      "name": "ravager wurm",
-      "count": 1,
-      "usd_value": "0.31"
-    },
-    {
-      "name": "oji, the exquisite blade",
-      "count": 1,
-      "usd_value": "0.12"
-    },
-    {
-      "name": "meddling mage",
-      "count": 1,
-      "usd_value": "0.69"
-    },
-    {
-      "name": "noyan dar, roil shaper",
-      "count": 3,
-      "usd_value": "0.16"
-    },
-    {
-      "name": "lavinia of the tenth",
-      "count": 2,
-      "usd_value": "0.31"
-    },
-    {
-      "name": "daxos of meletis",
-      "count": 1,
-      "usd_value": "0.10"
-    },
-    {
-      "name": "dream trawler",
-      "count": 1,
-      "usd_value": "0.30"
-    },
-    {
-      "name": "deputy of detention",
-      "count": 1,
-      "usd_value": "0.27"
-    },
-    {
-      "name": "isperia, supreme judge",
-      "count": 1,
-      "usd_value": "0.26"
-    },
-    {
-      "name": "korlessa, scale singer",
-      "count": 1,
-      "usd_value": "0.14"
-    },
-    {
-      "name": "alaundo the seer",
-      "count": 1,
-      "usd_value": "0.05"
-    },
-    {
-      "name": "roalesk, apex hybrid",
-      "count": 1,
-      "usd_value": "0.33"
-    },
-    {
-      "name": "zegana, utopian speaker",
-      "count": 2,
-      "usd_value": "0.34"
-    },
-    {
-      "name": "rashmi, eternities crafter",
-      "count": 1,
-      "usd_value": "0.75"
-    },
-    {
-      "name": "slogurk, the overslime",
-      "count": 1,
-      "usd_value": "0.24"
-    },
-    {
-      "name": "shardless agent",
-      "count": 1,
-      "usd_value": "0.21"
-    },
-    {
-      "name": "dawnhart wardens",
-      "count": 2,
-      "usd_value": "0.03"
-    },
-    {
-      "name": "emmara tandris",
-      "count": 1,
-      "usd_value": "0.15"
-    },
-    {
-      "name": "tolsimir, friend to wolves",
-      "count": 1,
-      "usd_value": "0.32"
-    },
-    {
-      "name": "kyler, sigardian emissary",
-      "count": 1,
-      "usd_value": "0.55"
-    },
-    {
-      "name": "lathiel, the bounteous dawn",
-      "count": 1,
-      "usd_value": "0.25"
-    },
-    {
-      "name": "rhys the redeemed",
-      "count": 1,
-      "usd_value": "2.71"
-    },
-    {
-      "name": "katilda, dawnhart prime",
-      "count": 1,
-      "usd_value": "0.58"
-    },
-    {
-      "name": "risen sanctuary",
-      "count": 1,
-      "usd_value": "0.02"
-    },
-    {
-      "name": "duke ulder ravengard",
-      "count": 1,
-      "usd_value": "0.13"
-    },
-    {
-      "name": "spirit-sister's call",
-      "count": 1,
-      "usd_value": "0.23"
-    },
-    {
-      "name": "oath of kaya",
-      "count": 2,
-      "usd_value": "0.25"
-    },
-    {
-      "name": "invocation of saint traft",
-      "count": 2,
-      "usd_value": "0.20"
-    },
-    {
-      "name": "fevered visions",
-      "count": 2,
-      "usd_value": "0.73"
-    },
-    {
-      "name": "sultai ascendancy",
-      "count": 1,
-      "usd_value": "0.27"
-    },
-    {
-      "name": "abzan ascendancy",
-      "count": 1,
-      "usd_value": "0.19"
-    },
-    {
-      "name": "mardu ascendancy",
-      "count": 1,
-      "usd_value": "0.33"
-    },
-    {
-      "name": "agent of the iron throne",
-      "count": 1,
-      "usd_value": "0.30"
-    },
-    {
-      "name": "cultist of the absolute",
-      "count": 1,
-      "usd_value": "0.13"
-    },
-    {
-      "name": "scion of halaster",
-      "count": 1,
-      "usd_value": "0.02"
-    },
-    {
-      "name": "curse of leeches",
-      "count": 1,
-      "usd_value": "0.14"
-    },
-    {
-      "name": "phyrexian scriptures",
-      "count": 1,
-      "usd_value": "0.79"
-    },
-    {
-      "name": "daxos's torment",
-      "count": 1,
-      "usd_value": "0.28"
-    },
-    {
-      "name": "descent into madness",
-      "count": 1,
-      "usd_value": "0.26"
-    },
-    {
-      "name": "wound reflection",
-      "count": 1,
-      "usd_value": "9.36"
-    },
-    {
-      "name": "liliana's mastery",
-      "count": 1,
-      "usd_value": "0.22"
-    },
-    {
-      "name": "the meathook massacre",
-      "count": 1,
-      "usd_value": "36.19"
-    },
-    {
-      "name": "master chef",
-      "count": 1,
-      "usd_value": "0.06"
-    },
-    {
-      "name": "the dragon-kami reborn",
-      "count": 2,
-      "usd_value": "0.09"
-    },
-    {
-      "name": "predatory urge",
-      "count": 1,
-      "usd_value": "0.21"
-    },
-    {
-      "name": "oath of the ancient wood",
-      "count": 1,
-      "usd_value": "0.24"
-    },
-    {
-      "name": "aid from the cowl",
-      "count": 1,
-      "usd_value": "0.13"
-    },
-    {
-      "name": "unnatural growth",
-      "count": 1,
-      "usd_value": "4.93"
-    },
-    {
-      "name": "rites of flourishing",
-      "count": 1,
-      "usd_value": "1.20"
-    },
-    {
-      "name": "the mending of dominaria",
-      "count": 1,
-      "usd_value": "0.25"
-    },
-    {
-      "name": "abundance",
-      "count": 1,
-      "usd_value": "0.42"
-    },
-    {
-      "name": "mana reflection",
-      "count": 1,
-      "usd_value": "12.36"
-    },
-    {
-      "name": "enchantress's presence",
-      "count": 1,
-      "usd_value": "0.61"
-    },
-    {
-      "name": "collapsing borders",
-      "count": 4,
-      "usd_value": "0.37"
-    },
-    {
-      "name": "court of ire",
-      "count": 1,
-      "usd_value": "0.28"
-    },
-    {
-      "name": "sneak attack",
-      "count": 1,
-      "usd_value": "8.14"
-    },
-    {
-      "name": "ion storm",
-      "count": 1,
-      "usd_value": "0.09"
-    },
-    {
-      "name": "curse of shaken faith",
-      "count": 1,
-      "usd_value": "0.22"
-    },
-    {
-      "name": "leyline of combustion",
-      "count": 1,
-      "usd_value": "0.65"
-    },
-    {
-      "name": "blood moon",
-      "count": 1,
-      "usd_value": "10.42"
-    },
-    {
-      "name": "tavern brawler",
-      "count": 1,
-      "usd_value": "0.02"
-    },
-    {
-      "name": "popular entertainer",
-      "count": 1,
-      "usd_value": "0.12"
-    },
-    {
-      "name": "descent into avernus",
-      "count": 1,
-      "usd_value": "1.54"
-    },
-    {
-      "name": "street urchin",
-      "count": 1,
-      "usd_value": "0.06"
-    },
-    {
-      "name": "blood sun",
-      "count": 1,
-      "usd_value": "0.48"
-    },
-    {
-      "name": "domestication",
-      "count": 1,
-      "usd_value": "0.02"
-    },
-    {
-      "name": "shark typhoon",
-      "count": 1,
-      "usd_value": "8.75"
-    },
-    {
-      "name": "prism array",
-      "count": 1,
-      "usd_value": "0.06"
-    },
-    {
-      "name": "shameless charlatan",
-      "count": 1,
-      "usd_value": "0.06"
-    },
-    {
-      "name": "kindred discovery",
-      "count": 1,
-      "usd_value": "11.40"
-    },
-    {
-      "name": "curse of surveillance",
-      "count": 1,
-      "usd_value": "0.13"
-    },
-    {
-      "name": "court of cunning",
-      "count": 1,
-      "usd_value": "2.31"
-    },
-    {
-      "name": "swarm intelligence",
-      "count": 1,
-      "usd_value": "0.28"
-    },
-    {
-      "name": "legion loyalty",
-      "count": 1,
-      "usd_value": "4.01"
-    },
-    {
-      "name": "noble heritage",
-      "count": 1,
-      "usd_value": "0.12"
-    },
-    {
-      "name": "happily ever after",
-      "count": 1,
-      "usd_value": "0.19"
-    },
-    {
-      "name": "always watching",
-      "count": 3,
-      "usd_value": "1.38"
-    },
-    {
-      "name": "martial law",
-      "count": 1,
-      "usd_value": "0.13"
-    },
-    {
-      "name": "court of grace",
-      "count": 1,
-      "usd_value": "0.64"
-    },
-    {
-      "name": "together forever",
-      "count": 1,
-      "usd_value": "0.13"
-    },
-    {
-      "name": "quarantine field",
-      "count": 1,
-      "usd_value": "0.29"
-    },
-    {
-      "name": "legion's landing",
-      "count": 1,
-      "usd_value": "4.35"
-    },
-    {
-      "name": "sigarda's splendor",
-      "count": 1,
-      "usd_value": "0.20"
-    },
-    {
-      "name": "tamiyo, compleated sage",
-      "count": 1,
-      "usd_value": "1.03"
+      "usd_value": "0.0"
     },
     {
       "name": "angrath, minotaur pirate",
       "count": 1,
-      "usd_value": "0.00"
-    },
-    {
-      "name": "domri, anarch of bolas",
-      "count": 1,
-      "usd_value": "1.16"
-    },
-    {
-      "name": "geyadrone dihada",
-      "count": 1,
-      "usd_value": "0.28"
-    },
-    {
-      "name": "nicol bolas, dragon-god",
-      "count": 1,
-      "usd_value": "7.35"
-    },
-    {
-      "name": "kaito, shizuki",
-      "count": 1,
-      "usd_value": "2.34"
-    },
-    {
-      "name": "ugin, the ineffable",
-      "count": 1,
-      "usd_value": "2.80"
-    },
-    {
-      "name": "wrenn and seven",
-      "count": 1,
-      "usd_value": "5.84"
-    },
-    {
-      "name": "vivien, champion of the wilds",
-      "count": 1,
-      "usd_value": "0.31"
-    },
-    {
-      "name": "nissa, who shakes the world",
-      "count": 2,
-      "usd_value": "4.07"
-    },
-    {
-      "name": "sarkhan the masterless",
-      "count": 2,
-      "usd_value": "0.25"
-    },
-    {
-      "name": "jeska, thrice reborn",
-      "count": 1,
-      "usd_value": "3.05"
-    },
-    {
-      "name": "jace, architect of thought",
-      "count": 1,
-      "usd_value": "0.27"
-    },
-    {
-      "name": "anguished unmaking",
-      "count": 1,
-      "usd_value": "3.38"
-    },
-    {
-      "name": "artifact mutation",
-      "count": 1,
-      "usd_value": "0.31"
-    },
-    {
-      "name": "master warcraft",
-      "count": 1,
-      "usd_value": "0.20"
-    },
-    {
-      "name": "siphon insight",
-      "count": 1,
-      "usd_value": "0.24"
-    },
-    {
-      "name": "spinal embrace",
-      "count": 1,
-      "usd_value": "0.06"
-    },
-    {
-      "name": "dragon shift",
-      "count": 1,
-      "usd_value": "0.18"
-    },
-    {
-      "name": "firemind's foresight",
-      "count": 1,
-      "usd_value": "0.19"
-    },
-    {
-      "name": "dromoka's command",
-      "count": 1,
-      "usd_value": "0.19"
-    },
-    {
-      "name": "astarion's thirst",
-      "count": 1,
-      "usd_value": "0.28"
-    },
-    {
-      "name": "march of wretched sorrow",
-      "count": 2,
-      "usd_value": "0.17"
-    },
-    {
-      "name": "vampiric tutor",
-      "count": 1,
-      "usd_value": "28.70"
-    },
-    {
-      "name": "return of the wildspeaker",
-      "count": 2,
-      "usd_value": "1.81"
-    },
-    {
-      "name": "kamahl's will",
-      "count": 1,
-      "usd_value": "0.23"
-    },
-    {
-      "name": "curious herd",
-      "count": 1,
-      "usd_value": "0.24"
-    },
-    {
-      "name": "strength of the tajuru",
-      "count": 1,
-      "usd_value": "0.13"
-    },
-    {
-      "name": "fated intervention",
-      "count": 1,
-      "usd_value": "0.10"
-    },
-    {
-      "name": "march of burgeoning life",
-      "count": 1,
-      "usd_value": "0.12"
-    },
-    {
-      "name": "awakening of vitu-ghazi",
-      "count": 1,
-      "usd_value": "0.22"
-    },
-    {
-      "name": "once upon a time",
-      "count": 1,
-      "usd_value": "0.76"
-    },
-    {
-      "name": "faithless salvaging",
-      "count": 1,
-      "usd_value": "0.03"
-    },
-    {
-      "name": "chaos warp",
-      "count": 1,
-      "usd_value": "1.09"
-    },
-    {
-      "name": "deflecting swat",
-      "count": 1,
-      "usd_value": "38.88"
-    },
-    {
-      "name": "magmaquake",
-      "count": 1,
-      "usd_value": "0.11"
-    },
-    {
-      "name": "commune with lava",
-      "count": 1,
-      "usd_value": "0.19"
-    },
-    {
-      "name": "starstorm",
-      "count": 1,
-      "usd_value": "0.17"
-    },
-    {
-      "name": "comet storm",
-      "count": 1,
-      "usd_value": "0.72"
-    },
-    {
-      "name": "epiphany at the drownyard",
-      "count": 1,
-      "usd_value": "0.35"
-    },
-    {
-      "name": "polymorphous rush",
-      "count": 1,
-      "usd_value": "0.14"
-    },
-    {
-      "name": "engulf the shore",
-      "count": 1,
-      "usd_value": "0.54"
-    },
-    {
-      "name": "icy blast",
-      "count": 1,
-      "usd_value": "0.36"
-    },
-    {
-      "name": "decoy gambit",
-      "count": 1,
-      "usd_value": "0.11"
-    },
-    {
-      "name": "march of swirling mist",
-      "count": 2,
-      "usd_value": "1.84"
-    },
-    {
-      "name": "gale's redirection",
-      "count": 1,
-      "usd_value": "0.14"
-    },
-    {
-      "name": "march of otherworldly light",
-      "count": 2,
-      "usd_value": "1.41"
-    },
-    {
-      "name": "eerie interlude",
-      "count": 1,
-      "usd_value": "3.36"
-    },
-    {
-      "name": "ignite the beacon",
-      "count": 2,
-      "usd_value": "0.21"
-    },
-    {
-      "name": "revel in silence",
-      "count": 1,
-      "usd_value": "0.13"
-    },
-    {
-      "name": "lae'zel's acrobatics",
-      "count": 1,
-      "usd_value": "0.68"
-    },
-    {
-      "name": "time sieve",
-      "count": 1,
-      "usd_value": "5.56"
-    },
-    {
-      "name": "aetherflux reservoir",
-      "count": 1,
-      "usd_value": "7.50"
-    },
-    {
-      "name": "pyxis of pandemonium",
-      "count": 1,
-      "usd_value": "0.24"
-    },
-    {
-      "name": "chaos wand",
-      "count": 2,
-      "usd_value": "0.18"
-    },
-    {
-      "name": "corrupted grafstone",
-      "count": 1,
-      "usd_value": "0.19"
-    },
-    {
-      "name": "silent gravestone",
-      "count": 1,
-      "usd_value": "0.31"
-    },
-    {
-      "name": "tower of calamities",
-      "count": 1,
-      "usd_value": "0.21"
-    },
-    {
-      "name": "haunted plate mail",
-      "count": 1,
-      "usd_value": "0.18"
-    },
-    {
-      "name": "eye of doom",
-      "count": 1,
-      "usd_value": "0.25"
-    },
-    {
-      "name": "multiclass baldric",
-      "count": 1,
-      "usd_value": "0.08"
-    },
-    {
-      "name": "mighty servant of leuk-o",
-      "count": 1,
-      "usd_value": "0.18"
-    },
-    {
-      "name": "moss diamond",
-      "count": 3,
-      "usd_value": "0.09"
-    },
-    {
-      "name": "cloak of the bat",
-      "count": 2,
-      "usd_value": "0.09"
-    },
-    {
-      "name": "sky diamond",
-      "count": 1,
-      "usd_value": "0.13"
-    },
-    {
-      "name": "charcoal diamond",
-      "count": 1,
-      "usd_value": "0.15"
-    },
-    {
-      "name": "decanter of endless water",
-      "count": 1,
-      "usd_value": "2.01"
-    },
-    {
-      "name": "thran temporal gateway",
-      "count": 1,
-      "usd_value": "0.72"
-    },
-    {
-      "name": "stonespeaker crystal",
-      "count": 1,
-      "usd_value": "0.28"
-    },
-    {
-      "name": "seer's sundial",
-      "count": 2,
-      "usd_value": "0.19"
-    },
-    {
-      "name": "loxodon warhammer",
-      "count": 1,
-      "usd_value": "0.27"
-    },
-    {
-      "name": "vanquisher's banner",
-      "count": 1,
-      "usd_value": "6.31"
-    },
-    {
-      "name": "junkyo bell",
-      "count": 1,
-      "usd_value": "0.29"
-    },
-    {
-      "name": "helvault",
-      "count": 1,
-      "usd_value": "0.33"
-    },
-    {
-      "name": "obelisk of urd",
-      "count": 1,
-      "usd_value": "2.73"
-    },
-    {
-      "name": "blackblade reforged",
-      "count": 1,
-      "usd_value": "0.35"
-    },
-    {
-      "name": "mesmeric orb",
-      "count": 1,
-      "usd_value": "3.33"
-    },
-    {
-      "name": "ratchet bomb",
-      "count": 1,
-      "usd_value": "1.12"
+      "usd_value": "0.0"
     },
     {
       "name": "boneyard",
       "count": 1,
-      "usd_value": "0.00"
-    },
-    {
-      "name": "scytheclaw",
-      "count": 1,
-      "usd_value": "0.18"
-    },
-    {
-      "name": "eater of virtue",
-      "count": 2,
-      "usd_value": "0.24"
-    },
-    {
-      "name": "nevinyrral's disk",
-      "count": 1,
-      "usd_value": "0.27"
-    },
-    {
-      "name": "pithing needle",
-      "count": 1,
-      "usd_value": "0.98"
-    },
-    {
-      "name": "twinning staff",
-      "count": 1,
-      "usd_value": "2.69"
-    },
-    {
-      "name": "rings of brighthearth",
-      "count": 1,
-      "usd_value": "2.36"
-    },
-    {
-      "name": "surgehacker mech",
-      "count": 1,
-      "usd_value": "0.10"
-    },
-    {
-      "name": "conjurer's closet",
-      "count": 1,
-      "usd_value": "8.38"
-    },
-    {
-      "name": "mask of griselbrand",
-      "count": 1,
-      "usd_value": "0.48"
-    },
-    {
-      "name": "mukotai soulripper",
-      "count": 1,
-      "usd_value": "0.06"
-    },
-    {
-      "name": "whispersteel dagger",
-      "count": 1,
-      "usd_value": "0.13"
-    },
-    {
-      "name": "mizzium tank",
-      "count": 1,
-      "usd_value": "0.14"
-    },
-    {
-      "name": "lavabrink floodgates",
-      "count": 1,
-      "usd_value": "0.11"
-    },
-    {
-      "name": "silent submersible",
-      "count": 1,
-      "usd_value": "0.19"
-    },
-    {
-      "name": "parhelion II",
-      "count": 1,
-      "usd_value": "1.25"
-    },
-    {
-      "name": "kaya's wrath",
-      "count": 1,
-      "usd_value": "0.23"
-    },
-    {
-      "name": "obzedat's aid",
-      "count": 1,
-      "usd_value": "0.20"
-    },
-    {
-      "name": "revival/revenge",
-      "count": 1,
-      "usd_value": "0.71"
-    },
-    {
-      "name": "angrath's fury",
-      "count": 2,
-      "usd_value": "0.22"
-    },
-    {
-      "name": "bring to light",
-      "count": 1,
-      "usd_value": "0.47"
-    },
-    {
-      "name": "camaraderie",
-      "count": 1,
-      "usd_value": "0.18"
-    },
-    {
-      "name": "reap the past",
-      "count": 1,
-      "usd_value": "0.36"
-    },
-    {
-      "name": "dire-strain rampage",
-      "count": 1,
-      "usd_value": "0.22"
-    },
-    {
-      "name": "solar blaze",
-      "count": 3,
-      "usd_value": "0.26"
-    },
-    {
-      "name": "brightflame",
-      "count": 1,
-      "usd_value": "0.41"
-    },
-    {
-      "name": "eiganjo uprising",
-      "count": 2,
-      "usd_value": "0.09"
-    },
-    {
-      "name": "soulquake",
-      "count": 1,
-      "usd_value": "0.23"
-    },
-    {
-      "name": "casualties of war",
-      "count": 1,
-      "usd_value": "1.23"
-    },
-    {
-      "name": "role reversal",
-      "count": 1,
-      "usd_value": "0.20"
-    },
-    {
-      "name": "time wipe",
-      "count": 1,
-      "usd_value": "0.18"
-    },
-    {
-      "name": "beck/call",
-      "count": 1,
-      "usd_value": "0.25"
-    },
-    {
-      "name": "angelfire ignition",
-      "count": 1,
-      "usd_value": "0.27"
-    },
-    {
-      "name": "gruesome slaughter",
-      "count": 1,
-      "usd_value": "0.28"
-    },
-    {
-      "name": "imperial seal",
-      "count": 1,
-      "usd_value": "66.66"
-    },
-    {
-      "name": "call to the void",
-      "count": 1,
-      "usd_value": "0.07"
-    },
-    {
-      "name": "blood money",
-      "count": 2,
-      "usd_value": "4.76"
-    },
-    {
-      "name": "eldritch pact",
-      "count": 1,
-      "usd_value": "0.20"
-    },
-    {
-      "name": "the elderspell",
-      "count": 2,
-      "usd_value": "0.52"
-    },
-    {
-      "name": "scheming symmetry",
-      "count": 1,
-      "usd_value": "3.91"
-    },
-    {
-      "name": "command the dreadhorde",
-      "count": 1,
-      "usd_value": "0.68"
-    },
-    {
-      "name": "finale of eternity",
-      "count": 1,
-      "usd_value": "0.97"
-    },
-    {
-      "name": "necromantic selection",
-      "count": 1,
-      "usd_value": "0.18"
-    },
-    {
-      "name": "visions of dread",
-      "count": 1,
-      "usd_value": "0.15"
-    },
-    {
-      "name": "extinguish all hope",
-      "count": 1,
-      "usd_value": "1.22"
-    },
-    {
-      "name": "ruinous path",
-      "count": 1,
-      "usd_value": "0.12"
-    },
-    {
-      "name": "ghastly conscription",
-      "count": 1,
-      "usd_value": "0.18"
-    },
-    {
-      "name": "sever the bloodline",
-      "count": 1,
-      "usd_value": "0.08"
-    },
-    {
-      "name": "gild",
-      "count": 1,
-      "usd_value": "0.16"
-    },
-    {
-      "name": "soul transfer",
-      "count": 2,
-      "usd_value": "0.18"
-    },
-    {
-      "name": "in garruk's wake",
-      "count": 1,
-      "usd_value": "0.69"
-    },
-    {
-      "name": "nylea's intervention",
-      "count": 1,
-      "usd_value": "0.46"
-    },
-    {
-      "name": "nissa's renewal",
-      "count": 1,
-      "usd_value": "0.17"
-    },
-    {
-      "name": "finale of devastation",
-      "count": 1,
-      "usd_value": "25.46"
-    },
-    {
-      "name": "traverse the outlands",
-      "count": 1,
-      "usd_value": "1.95"
-    },
-    {
-      "name": "adventurous impulse",
-      "count": 1,
-      "usd_value": "0.04"
-    },
-    {
-      "name": "cultivate",
-      "count": 1,
-      "usd_value": "0.50"
-    },
-    {
-      "name": "storm the festival",
-      "count": 1,
-      "usd_value": "1.26"
-    },
-    {
-      "name": "invoke the ancients",
-      "count": 1,
-      "usd_value": "0.09"
-    },
-    {
-      "name": "nissa's renewal",
-      "count": 1,
-      "usd_value": "0.17"
-    },
-    {
-      "name": "predatory rampage",
-      "count": 1,
-      "usd_value": "0.25"
-    },
-    {
-      "name": "rolling earthquake",
-      "count": 1,
-      "usd_value": "3.75"
-    },
-    {
-      "name": "howl of the horde",
-      "count": 1,
-      "usd_value": "0.21"
-    },
-    {
-      "name": "visions of ruin",
-      "count": 1,
-      "usd_value": "0.47"
-    },
-    {
-      "name": "irencrag feat",
-      "count": 1,
-      "usd_value": "0.27"
-    },
-    {
-      "name": "repeating barrage",
-      "count": 1,
-      "usd_value": "0.06"
-    },
-    {
-      "name": "alpha brawl",
-      "count": 1,
-      "usd_value": "0.27"
-    },
-    {
-      "name": "crater's claws",
-      "count": 1,
-      "usd_value": "0.16"
-    },
-    {
-      "name": "mindblaze",
-      "count": 1,
-      "usd_value": "0.15"
-    },
-    {
-      "name": "radiant flames",
-      "count": 1,
-      "usd_value": "0.08"
-    },
-    {
-      "name": "trade secrets",
-      "count": 1,
-      "usd_value": "0.27"
-    },
-    {
-      "name": "fractured sanity",
-      "count": 1,
-      "usd_value": "0.38"
-    },
-    {
-      "name": "notorious throng",
-      "count": 1,
-      "usd_value": "0.50"
-    },
-    {
-      "name": "reshape",
-      "count": 1,
-      "usd_value": "2.45"
-    },
-    {
-      "name": "river's rebuke",
-      "count": 1,
-      "usd_value": "0.65"
-    },
-    {
-      "name": "stolen identity",
-      "count": 1,
-      "usd_value": "0.13"
-    },
-    {
-      "name": "sakashima's will",
-      "count": 1,
-      "usd_value": "0.18"
-    },
-    {
-      "name": "sculpted sunburst",
-      "count": 1,
-      "usd_value": "0.10"
-    },
-    {
-      "name": "council's judgment",
-      "count": 1,
-      "usd_value": "2.17"
-    },
-    {
-      "name": "farewell",
-      "count": 1,
-      "usd_value": "8.69"
-    },
-    {
-      "name": "gideon's battle cry",
-      "count": 2,
-      "usd_value": "0.18"
-    },
-    {
-      "name": "planar outburst",
-      "count": 2,
-      "usd_value": "0.06"
-    },
-    {
-      "name": "single combat",
-      "count": 1,
-      "usd_value": "0.46"
-    },
-    {
-      "name": "ravnica at war",
-      "count": 1,
-      "usd_value": "0.36"
-    },
-    {
-      "name": "fumigate",
-      "count": 1,
-      "usd_value": "0.35"
-    },
-    {
-      "name": "citywide bust",
-      "count": 1,
-      "usd_value": "0.11"
+      "usd_value": "0.0"
     }
   ]
 }
