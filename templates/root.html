@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>SK TCG Trader</title>
+        <link rel="stylesheet" href="/assets/main.css">
+        <script src="/assets/htmx.min.js"></script>
+    </head>
+    <body class="bg-slate-700">
+        <div class="flex flex-col items-center">
+            <h1 class="text-2xl text-white">SK TCG Trader</h1>
+            <h2 class="text-xl text-white" id="help-text">Click the button below to get the metrics</h2>
+            <br />
+            <p class="font-bold text-white"id="data"></p>
+            <br />
+            <button class="bg-purple-500 p-4 rounded-lg text-white font-bold" id="submit" hx-get="/metrics" hx-target='#data' hx-swap="innerHTML">Get Data</button>    
+        </div>
+    </body>
+    <style>
+    </style>
+</html>
