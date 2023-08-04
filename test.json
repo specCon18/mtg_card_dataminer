@@ -1,0 +1,54 @@
+{
+  "cards": [
+    {
+      "name": "noble hierarch",
+      "count": 2,
+      "usd_value": "9.93"
+    },
+    {
+      "name": "wound reflection",
+      "count": 1,
+      "usd_value": "9.42"
+    },
+    {
+      "name": "ancient gold dragon",
+      "count": 1,
+      "usd_value": "8.82"
+    },
+    {
+      "name": "farewell",
+      "count": 1,
+      "usd_value": "8.73"
+    },
+    {
+      "name": "shark typhoon",
+      "count": 1,
+      "usd_value": "8.72"
+    },
+    {
+      "name": "conjurer's closet",
+      "count": 1,
+      "usd_value": "8.49"
+    },
+    {
+      "name": "sneak attack",
+      "count": 1,
+      "usd_value": "8.14"
+    },
+    {
+      "name": "serpent of yawning depths",
+      "count": 1,
+      "usd_value": "7.92"
+    },
+    {
+      "name": "legion loyalist",
+      "count": 1,
+      "usd_value": "7.76"
+    },
+    {
+      "name": "wooded bastion",
+      "count": 1,
+      "usd_value": "7.67"
+    }
+  ]
+}

@@ -51,12 +51,12 @@
       "usd_value": "7.67"
     },
     {
-      "name": "spark double",
+      "name": "aetherflux reservoir",
       "count": 1,
-      "usd_value": "7.65"
+      "usd_value": "7.43"
     },
     {
-      "name": "aetherflux reservoir",
+      "name": "spectator seating",
       "count": 1,
       "usd_value": "7.43"
     },
@@ -69,11 +69,6 @@
       "name": "imperial seal",
       "count": 1,
       "usd_value": "66.78"
-    },
-    {
-      "name": "spectator seating",
-      "count": 1,
-      "usd_value": "6.89"
     },
     {
       "name": "command beacon",
@@ -93,7 +88,7 @@
     {
       "name": "vanquisher's banner",
       "count": 1,
-      "usd_value": "6.31"
+      "usd_value": "6.15"
     },
     {
       "name": "deserted beach",
@@ -109,6 +104,11 @@
       "name": "wrenn and seven",
       "count": 1,
       "usd_value": "6.02"
+    },
+    {
+      "name": "spark double",
+      "count": 1,
+      "usd_value": "5.84"
     },
     {
       "name": "jaheira, friend of the forest",
@@ -138,7 +138,7 @@
     {
       "name": "avacyn, angel of hope",
       "count": 1,
-      "usd_value": "44.25"
+      "usd_value": "41.87"
     },
     {
       "name": "unnatural growth",
@@ -188,7 +188,7 @@
     {
       "name": "deflecting swat",
       "count": 1,
-      "usd_value": "38.03"
+      "usd_value": "38.19"
     },
     {
       "name": "fury",
@@ -216,6 +216,11 @@
       "usd_value": "3.92"
     },
     {
+      "name": "ghalta, primal hunger",
+      "count": 1,
+      "usd_value": "3.88"
+    },
+    {
       "name": "michiko konda, truth seeker",
       "count": 1,
       "usd_value": "3.85"
@@ -224,11 +229,6 @@
       "name": "stonehewer giant",
       "count": 1,
       "usd_value": "3.81"
-    },
-    {
-      "name": "ghalta, primal hunger",
-      "count": 1,
-      "usd_value": "3.77"
     },
     {
       "name": "rolling earthquake",
@@ -308,7 +308,7 @@
     {
       "name": "finale of devastation",
       "count": 1,
-      "usd_value": "25.41"
+      "usd_value": "24.06"
     },
     {
       "name": "esper sentinel",
@@ -326,19 +326,14 @@
       "usd_value": "2.81"
     },
     {
-      "name": "ugin, the ineffable",
-      "count": 1,
-      "usd_value": "2.80"
-    },
-    {
-      "name": "sephara, sky's blade",
-      "count": 2,
-      "usd_value": "2.79"
-    },
-    {
       "name": "poppet stitcher",
       "count": 1,
       "usd_value": "2.77"
+    },
+    {
+      "name": "ugin, the ineffable",
+      "count": 1,
+      "usd_value": "2.75"
     },
     {
       "name": "rionya, fire dancer",
@@ -384,6 +379,11 @@
       "name": "rings of brighthearth",
       "count": 1,
       "usd_value": "2.39"
+    },
+    {
+      "name": "sephara, sky's blade",
+      "count": 2,
+      "usd_value": "2.33"
     },
     {
       "name": "court of cunning",
@@ -446,19 +446,19 @@
       "usd_value": "12.36"
     },
     {
-      "name": "kindred discovery",
-      "count": 1,
-      "usd_value": "11.86"
+      "name": "dryad of the ilysian grove",
+      "count": 3,
+      "usd_value": "12.13"
     },
     {
       "name": "vault of champions",
       "count": 1,
-      "usd_value": "11.74"
+      "usd_value": "11.93"
     },
     {
-      "name": "dryad of the ilysian grove",
-      "count": 3,
-      "usd_value": "11.26"
+      "name": "kindred discovery",
+      "count": 1,
+      "usd_value": "11.86"
     },
     {
       "name": "korvold, fae-cursed king",
@@ -586,11 +586,6 @@
       "usd_value": "1.23"
     },
     {
-      "name": "extinguish all hope",
-      "count": 1,
-      "usd_value": "1.22"
-    },
-    {
       "name": "storm the festival",
       "count": 1,
       "usd_value": "1.22"
@@ -604,6 +599,11 @@
       "name": "yavimaya coast",
       "count": 1,
       "usd_value": "1.16"
+    },
+    {
+      "name": "extinguish all hope",
+      "count": 1,
+      "usd_value": "1.15"
     },
     {
       "name": "notion thief",
@@ -713,7 +713,7 @@
     {
       "name": "drakuseth, maw of flames",
       "count": 2,
-      "usd_value": "0.74"
+      "usd_value": "0.75"
     },
     {
       "name": "verix bladewing",
@@ -796,11 +796,6 @@
       "usd_value": "0.65"
     },
     {
-      "name": "solemn simulacrum",
-      "count": 1,
-      "usd_value": "0.64"
-    },
-    {
       "name": "izoni,thousand-eyed",
       "count": 1,
       "usd_value": "0.64"
@@ -834,6 +829,11 @@
       "name": "enchantress's presence",
       "count": 1,
       "usd_value": "0.60"
+    },
+    {
+      "name": "solemn simulacrum",
+      "count": 1,
+      "usd_value": "0.59"
     },
     {
       "name": "goro-goro, disciple of ryusei",
@@ -906,14 +906,19 @@
       "usd_value": "0.51"
     },
     {
-      "name": "cultivate",
+      "name": "notorious throng",
       "count": 1,
       "usd_value": "0.50"
     },
     {
-      "name": "notorious throng",
+      "name": "talrand, sky summoner",
       "count": 1,
       "usd_value": "0.50"
+    },
+    {
+      "name": "cultivate",
+      "count": 1,
+      "usd_value": "0.49"
     },
     {
       "name": "mirror-mad phantasm",
@@ -956,11 +961,6 @@
       "usd_value": "0.48"
     },
     {
-      "name": "talrand, sky summoner",
-      "count": 1,
-      "usd_value": "0.47"
-    },
-    {
       "name": "boros reckoner",
       "count": 1,
       "usd_value": "0.47"
@@ -986,6 +986,11 @@
       "usd_value": "0.46"
     },
     {
+      "name": "metalwork colossus",
+      "count": 1,
+      "usd_value": "0.44"
+    },
+    {
       "name": "inkwell leviathan",
       "count": 1,
       "usd_value": "0.43"
@@ -999,11 +1004,6 @@
       "name": "light-paws, emperor's voice",
       "count": 3,
       "usd_value": "0.43"
-    },
-    {
-      "name": "metalwork colossus",
-      "count": 1,
-      "usd_value": "0.42"
     },
     {
       "name": "abundance",
@@ -1161,6 +1161,11 @@
       "usd_value": "0.32"
     },
     {
+      "name": "sidisi, brood tyrant",
+      "count": 1,
+      "usd_value": "0.32"
+    },
+    {
       "name": "archon of coronation",
       "count": 1,
       "usd_value": "0.31"
@@ -1271,11 +1276,6 @@
       "usd_value": "0.28"
     },
     {
-      "name": "sidisi, brood tyrant",
-      "count": 1,
-      "usd_value": "0.28"
-    },
-    {
       "name": "daxos's torment",
       "count": 1,
       "usd_value": "0.28"
@@ -1301,6 +1301,11 @@
       "usd_value": "0.28"
     },
     {
+      "name": "melek izzet paragon",
+      "count": 1,
+      "usd_value": "0.28"
+    },
+    {
       "name": "ravenloft adventurer",
       "count": 1,
       "usd_value": "0.27"
@@ -1322,11 +1327,6 @@
     },
     {
       "name": "isshin, two heavens as one",
-      "count": 1,
-      "usd_value": "0.27"
-    },
-    {
-      "name": "melek izzet paragon",
       "count": 1,
       "usd_value": "0.27"
     },
@@ -1416,6 +1416,16 @@
       "usd_value": "0.26"
     },
     {
+      "name": "the mending of dominaria",
+      "count": 1,
+      "usd_value": "0.26"
+    },
+    {
+      "name": "sarkhan the masterless",
+      "count": 2,
+      "usd_value": "0.26"
+    },
+    {
       "name": "needle spires",
       "count": 1,
       "usd_value": "0.25"
@@ -1442,16 +1452,6 @@
     },
     {
       "name": "oath of kaya",
-      "count": 2,
-      "usd_value": "0.25"
-    },
-    {
-      "name": "the mending of dominaria",
-      "count": 1,
-      "usd_value": "0.25"
-    },
-    {
-      "name": "sarkhan the masterless",
       "count": 2,
       "usd_value": "0.25"
     },
@@ -1761,13 +1761,18 @@
       "usd_value": "0.20"
     },
     {
-      "name": "castle embereth",
-      "count": 1,
-      "usd_value": "0.19"
+      "name": "cinder glade",
+      "count": 2,
+      "usd_value": "0.20"
     },
     {
-      "name": "exotic orchard",
+      "name": "temple of epiphany",
       "count": 2,
+      "usd_value": "0.20"
+    },
+    {
+      "name": "castle embereth",
+      "count": 1,
       "usd_value": "0.19"
     },
     {
@@ -1851,13 +1856,13 @@
       "usd_value": "0.19"
     },
     {
-      "name": "spinerock knoll",
-      "count": 1,
+      "name": "exotic orchard",
+      "count": 2,
       "usd_value": "0.18"
     },
     {
-      "name": "cinder glade",
-      "count": 2,
+      "name": "spinerock knoll",
+      "count": 1,
       "usd_value": "0.18"
     },
     {
@@ -1933,11 +1938,6 @@
     {
       "name": "temple of deceit",
       "count": 1,
-      "usd_value": "0.17"
-    },
-    {
-      "name": "temple of epiphany",
-      "count": 2,
       "usd_value": "0.17"
     },
     {
@@ -2076,6 +2076,11 @@
       "usd_value": "0.16"
     },
     {
+      "name": "teshar, ancestor's apostle",
+      "count": 1,
+      "usd_value": "0.16"
+    },
+    {
       "name": "sakashima's protege",
       "count": 1,
       "usd_value": "0.15"
@@ -2148,7 +2153,7 @@
     {
       "name": "temple of triumph",
       "count": 1,
-      "usd_value": "0.14"
+      "usd_value": "0.15"
     },
     {
       "name": "despoiler of souls",
@@ -2157,11 +2162,6 @@
     },
     {
       "name": "toolcraft exemplar",
-      "count": 1,
-      "usd_value": "0.14"
-    },
-    {
-      "name": "teshar, ancestor's apostle",
       "count": 1,
       "usd_value": "0.14"
     },
@@ -2411,6 +2411,11 @@
       "usd_value": "0.12"
     },
     {
+      "name": "anax, hardened in the forge",
+      "count": 1,
+      "usd_value": "0.12"
+    },
+    {
       "name": "desolate lighthouse",
       "count": 1,
       "usd_value": "0.11"
@@ -2483,11 +2488,6 @@
     {
       "name": "rowan's stalwarts",
       "count": 2,
-      "usd_value": "0.11"
-    },
-    {
-      "name": "anax, hardened in the forge",
-      "count": 1,
       "usd_value": "0.11"
     },
     {
