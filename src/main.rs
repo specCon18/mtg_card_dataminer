@@ -1,8 +1,6 @@
 use dotenv;
 use tokio::time::Duration;
-use prometheus::Registry;
 use tracing::info;
-use std::sync::Arc;
 
 mod server;
 mod cards;
@@ -11,7 +9,7 @@ mod handlers;
 mod util;
 
 use server::run_server;
-use cards::{CARD_VALUES,get_data_update_interval};
+use cards::{setup_registry, get_data_update_interval};
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
@@ -32,10 +30,4 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         interval.tick().await;
         cards::process_cards(&mut interval).await?;
     }
-}
-
-fn setup_registry() -> Result<Arc<Registry>, Box<dyn std::error::Error>> {
-    let registry = Arc::new(Registry::new());
-    registry.register(Box::new(CARD_VALUES.clone())).unwrap();
-    Ok(registry)
 }

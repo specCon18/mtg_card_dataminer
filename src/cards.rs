@@ -1,7 +1,7 @@
 use serde::{Deserialize, Serialize};
 use reqwest;
-use prometheus::{GaugeVec, Opts};
-use std::{env, fs::File, fs::OpenOptions, io::BufReader, collections::HashMap};
+use prometheus::{GaugeVec, Opts, Registry};
+use std::{env, fs::File, fs::OpenOptions, io::BufReader, collections::HashMap,sync::Arc};
 use crate::util;
 
 lazy_static::lazy_static! {
@@ -88,8 +88,8 @@ pub async fn process_cards(interval: &mut tokio::time::Interval) -> Result<(), B
     for card_from_file in &mut cards_data.cards {
         process_card(card_from_file).await?;
         pb.inc(1);
-        interval.tick().await;
     }
+    interval.tick().await;
 
     process_export_data(&mut cards_data.cards);
     pb.finish_with_message("Completed!");
@@ -101,4 +101,10 @@ pub async fn process_cards(interval: &mut tokio::time::Interval) -> Result<(), B
 
     serde_json::to_writer_pretty(file, &cards_data)?;
     Ok(())
+}
+
+pub fn setup_registry() -> Result<Arc<Registry>, Box<dyn std::error::Error>> {
+    let registry = Arc::new(Registry::new());
+    registry.register(Box::new(CARD_VALUES.clone())).unwrap();
+    Ok(registry)
 }

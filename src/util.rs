@@ -32,7 +32,7 @@ pub fn setup_progress_bar(len: u64) -> ProgressBar {
     let style = ProgressStyle::default_bar()
         .template("{spinner:.green} [{elapsed_precise}] [{bar:40.cyan/blue}] {pos}/{len} ({eta})")
         .unwrap()
-        .progress_chars("#|.");
+        .progress_chars("#>.");
     pb.set_style(style);
     pb
 }
