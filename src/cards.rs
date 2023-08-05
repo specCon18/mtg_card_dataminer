@@ -1,7 +1,8 @@
 use serde::{Deserialize, Serialize};
-use std::collections::HashMap;
 use reqwest;
 use prometheus::{GaugeVec, Opts};
+use std::{env, fs::File, fs::OpenOptions, io::BufReader, collections::HashMap};
+use crate::util;
 
 lazy_static::lazy_static! {
     pub static ref CARD_VALUES: GaugeVec = GaugeVec::new(
@@ -51,7 +52,16 @@ pub async fn process_card(card_from_file: &mut CardFromFile) -> Result<(), Box<d
     Ok(())
 }
 
-pub fn process_top_cards(cards: &mut Vec<CardFromFile>) {
+pub fn get_data_update_interval() -> Result<u64, Box<dyn std::error::Error>> {
+    let update_interval = dotenv::var("UPDATE_INTERVAL")
+        .map_err(|_| "UPDATE_INTERVAL is not defined in the .env file")?
+        .parse::<u64>()
+        .map_err(|_| "UPDATE_INTERVAL is not a valid number")?;
+        
+    Ok(update_interval * 3600)
+}
+
+pub fn process_export_data(cards: &mut Vec<CardFromFile>) {
     cards.sort_by(|a, b| b.usd_value.partial_cmp(&a.usd_value).unwrap());
     let top_10_cards = &cards[..10];
     for card in top_10_cards {
@@ -60,4 +70,35 @@ pub fn process_top_cards(cards: &mut Vec<CardFromFile>) {
             CARD_VALUES.with_label_values(&[&card.name]).set(value);
         }
     }
+}
+
+pub async fn process_cards(interval: &mut tokio::time::Interval) -> Result<(), Box<dyn std::error::Error>> {
+    let args: Vec<String> = env::args().collect();
+    if args.len() < 2 {
+        eprintln!("Please provide the path to the JSON file as an argument.");
+        return Ok(());
+    }
+
+    let file_path = &args[1];
+    let file = File::open(file_path)?;
+    let reader = BufReader::new(file);
+    let mut cards_data: CardFile = serde_json::from_reader(reader)?;
+    let pb = util::setup_progress_bar(cards_data.cards.len() as u64);
+
+    for card_from_file in &mut cards_data.cards {
+        process_card(card_from_file).await?;
+        pb.inc(1);
+        interval.tick().await;
+    }
+
+    process_export_data(&mut cards_data.cards);
+    pb.finish_with_message("Completed!");
+
+    let file = OpenOptions::new()
+        .write(true)
+        .truncate(true)
+        .open(file_path)?;
+
+    serde_json::to_writer_pretty(file, &cards_data)?;
+    Ok(())
 }

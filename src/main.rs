@@ -1,71 +1,41 @@
 use dotenv;
-use std::{env, fs::File, fs::OpenOptions, io::BufReader, sync::Arc,net::SocketAddr};
 use tokio::time::Duration;
-use indicatif::{ProgressBar, ProgressStyle};
 use prometheus::Registry;
+use tracing::info;
+use std::sync::Arc;
 
 mod server;
-mod card;
+mod cards;
+mod templates;
+mod handlers;
+mod util;
 
-use server::run_metrics_server;
-use card::{CARD_VALUES, CardFile, process_card, process_top_cards};
+use server::run_server;
+use cards::{CARD_VALUES,get_data_update_interval};
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
     dotenv::dotenv().ok();
-    
-    let update_interval = dotenv::var("UPDATE_INTERVAL")
-        .map_err(|_| "UPDATE_INTERVAL is not defined in the .env file")?
-        .parse::<u64>()
-        .map_err(|_| "UPDATE_INTERVAL is not a valid number")?
-        * 3600;
 
-    let registry = Arc::new(Registry::new());
-    registry.register(Box::new(CARD_VALUES.clone())).unwrap();
+    let update_interval = get_data_update_interval()?;
+    let registry = setup_registry()?;
+    util::setup_tracing_subscriber();
 
-    let metrics_addr = SocketAddr::from(([127, 0, 0, 1], 3001));
-    tokio::spawn(run_metrics_server(metrics_addr, registry.clone()));
+    let ip_addr = server::get_ip_address()?;
+    tokio::spawn(run_server(ip_addr, registry.clone()));
 
+    info!("setting update interval {}", (update_interval/3600).to_string());
     let mut interval = tokio::time::interval(Duration::from_secs(update_interval));
+
+    info!("server started, now listening on port {}", ip_addr.port());
     loop {
         interval.tick().await;
-
-        let args: Vec<String> = env::args().collect();
-        if args.len() < 2 {
-            eprintln!("Please provide the path to the JSON file as an argument.");
-            continue;
-        }
-
-        let file_path = &args[1];
-        let file = File::open(file_path)?;
-        let reader = BufReader::new(file);
-        let mut cards_data: CardFile = serde_json::from_reader(reader)?;
-
-        let pb = setup_progress_bar(cards_data.cards.len() as u64);
-        for card_from_file in &mut cards_data.cards {
-            process_card(card_from_file).await?;
-            pb.inc(1);
-            tokio::time::sleep(Duration::from_millis(100)).await;
-        }
-
-        process_top_cards(&mut cards_data.cards);
-        pb.finish_with_message("Completed!");
-
-        let file = OpenOptions::new()
-            .write(true)
-            .truncate(true)
-            .open(file_path)?;
-
-        serde_json::to_writer_pretty(file, &cards_data)?;
+        cards::process_cards(&mut interval).await?;
     }
 }
 
-fn setup_progress_bar(len: u64) -> ProgressBar {
-    let pb = ProgressBar::new(len);
-    let style = ProgressStyle::default_bar()
-        .template("{spinner:.green} [{elapsed_precise}] [{bar:40.cyan/blue}] {pos}/{len} ({eta})")
-        .unwrap()
-        .progress_chars("#>-");
-    pb.set_style(style);
-    pb
+fn setup_registry() -> Result<Arc<Registry>, Box<dyn std::error::Error>> {
+    let registry = Arc::new(Registry::new());
+    registry.register(Box::new(CARD_VALUES.clone())).unwrap();
+    Ok(registry)
 }
