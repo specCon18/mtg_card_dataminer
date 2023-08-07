@@ -17,7 +17,12 @@
     run-dev = pkgs.writeShellScriptBin "run-dev" ''
       #!/usr/bin/env zsh
       set -e
-      cargo run test_data/test.json
+      cargo watch -x 'run test_data/test.json'
+    '';
+    run-prettier = pkgs.writeShellScriptBin "run-prettier" ''
+      #!/usr/bin/env zsh
+      set -e
+      pnpm prettier --write --ignore-unknown .
     '';
 
   in {
@@ -30,6 +35,7 @@
         pkgconfig
         rustc
         cargo
+        cargo-watch
         nodejs_20
         nodePackages_latest.pnpm
       ];
@@ -43,5 +49,6 @@
 
     build-tailwind = build-tailwind;
     run-dev = run-dev;
+    run-prettier = run-prettier;
   };
 }

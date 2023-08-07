@@ -4,7 +4,9 @@ use crate::templates::RootTemplate;
 use crate::util::HtmlTemplate;
 
 pub async fn root() -> impl IntoResponse {
-    let template = RootTemplate {};
+    let template = RootTemplate { 
+        name: "Steven"
+    };
     HtmlTemplate(template)
 }
 
