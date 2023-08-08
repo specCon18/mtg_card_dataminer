@@ -13,7 +13,7 @@ use cards::{setup_registry, get_data_update_interval};
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
-    dotenv::dotenv().ok();
+    dotenv::from_filename(".config/app.env").ok();
 
     let update_interval = get_data_update_interval()?;
     let registry = setup_registry()?;
