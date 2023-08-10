@@ -19,10 +19,17 @@ pub struct Card {
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
 pub struct CardFromFile {
-    name: String,
-    count: usize,
-    usd_value: Option<String>,
+    pub name: String,
+    pub count: i32,
+    pub usd_value: Option<String>,
 }
+
+pub struct CardForTemplate {
+    pub name: String,
+    pub count: i32,
+    pub usd_value: String, // No longer an Option
+}
+
 
 #[derive(Serialize, Deserialize, Debug)]
 pub struct CardFile {
@@ -63,8 +70,8 @@ pub fn get_data_update_interval() -> Result<u64, Box<dyn std::error::Error>> {
 
 pub fn process_export_data(cards: &mut Vec<CardFromFile>) {
     cards.sort_by(|a, b| b.usd_value.partial_cmp(&a.usd_value).unwrap());
-    let top_10_cards = &cards[..10];
-    for card in top_10_cards {
+    let cards = &cards[..10];
+    for card in cards {
         if let Some(price_str) = &card.usd_value {
             let value = price_str.parse::<f64>().unwrap();
             CARD_VALUES.with_label_values(&[&card.name]).set(value);
@@ -80,9 +87,7 @@ pub async fn process_cards(interval: &mut tokio::time::Interval) -> Result<(), B
     }
 
     let file_path = &args[1];
-    let file = File::open(file_path)?;
-    let reader = BufReader::new(file);
-    let mut cards_data: CardFile = serde_json::from_reader(reader)?;
+    let mut cards_data = read_card_file(file_path).await?;
     let pb = util::setup_progress_bar(cards_data.cards.len() as u64);
 
     for card_from_file in &mut cards_data.cards {
@@ -103,8 +108,16 @@ pub async fn process_cards(interval: &mut tokio::time::Interval) -> Result<(), B
     Ok(())
 }
 
+
 pub fn setup_registry() -> Result<Arc<Registry>, Box<dyn std::error::Error>> {
     let registry = Arc::new(Registry::new());
     registry.register(Box::new(CARD_VALUES.clone())).unwrap();
     Ok(registry)
+}
+
+pub async fn read_card_file(file_path: &str) -> Result<CardFile, Box<dyn std::error::Error>> {
+    let file = File::open(file_path)?;
+    let reader = BufReader::new(file);
+    let cards_data: CardFile = serde_json::from_reader(reader)?;
+    Ok(cards_data)
 }

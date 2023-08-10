@@ -1,20 +1,34 @@
-{% extends "base.html" %} {% block body %}
-<div class="flex flex-col items-center">
-  <h1 class="text-2xl text-white">{{ name }}'s SK TCG Trader</h1>
-  <br />
-  <h2 class="my-4 text-xl text-white" id="help-text">
-    Click the button below to get the metrics
-  </h2>
-  <br />
-  <p class="font-bold text-white" id="data"></p>
-  <button
-    class="bg-purple-500 p-4 rounded-lg text-white font-bold"
-    id="submit"
-    hx-get="/metrics"
-    hx-target="#data"
-    hx-swap="innerHTML"
-  >
-    Get Data
-  </button>
-</div>
+{% extends "base.html" %}
+
+{% block body %}
+<main class="flex flex-col items-center">
+    
+    <h1 class="text-2xl text-white">{{ name }}'s SK TCG Trader</h1>
+    
+    <table id="card_table" class="my-4 border-collapse text-center">
+      <tr class="text-gray-100 bg-gray-500 font-bold text-xl">
+        <th class="p-2 border-2 border-gray-950">Card Name</th>
+        <th class="p-2 border-2 border-gray-950">Card Value</th>
+        <th class="p-2 border-2 border-gray-950">Card Count</th>
+        <th class="p-2 border-2 border-gray-950">More Data</th>
+      </tr>
+      <!-- TODO: Add for loop for cards in data -->
+      {% for card in cards %}
+        <tr class="text-gray-900 bg-gray-300 text-lg">
+          <td class="p-2 border-2 border-gray-950">{{ card.name }}</td>
+          <td class="p-2 border-2 border-gray-950">{{ card.usd_value }}</td>
+          <td class="p-2 border-2 border-gray-950">{{ card.count }}</td>
+          <td class="p-2 border-2 border-gray-950">
+            <button class="p-2 rounded-xl bg-purple-500 text-lg font-bold text-gray-100">
+              {% include "icons/data.html"%}
+            </button>
+          </td>
+        </tr>
+      {% endfor %}
+      
+    </table>
+    <button class="p-2 rounded-xl bg-purple-500 text-xl font-bold text-gray-100" hx-get="/metrics" hx-trigger="click" hx-target="#card_table" hx-swap="innerHTML">
+      Update Prices
+    </button>
+  </main>
 {% endblock %}
