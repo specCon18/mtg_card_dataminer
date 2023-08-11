@@ -15,7 +15,3 @@ pub struct RootTemplate {
 #[derive(Template)]
 #[template(path="base.html")]
 pub struct BaseTemplate;
-
-#[derive(Template)]
-#[template(path="head.html")]
-pub struct  HeadTemplate;

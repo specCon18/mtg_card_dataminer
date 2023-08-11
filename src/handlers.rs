@@ -6,7 +6,7 @@ use crate::templates::RootTemplate;
 use crate::util::HtmlTemplate;
 
 pub async fn root() -> Result<HtmlTemplate<RootTemplate>, (StatusCode, String)> {
-    let file_path = "test_data/test.json";
+    let file_path = "test_data/cards.json";
     match read_card_file(file_path).await {
         Ok(card_file) => {
             let cards_for_template: Vec<_> = card_file.cards
@@ -14,7 +14,7 @@ pub async fn root() -> Result<HtmlTemplate<RootTemplate>, (StatusCode, String)> 
                 .map(|card| CardForTemplate {
                     name: card.name,
                     count: card.count,
-                    usd_value: card.usd_value.unwrap_or_else(|| "N/A".into()),
+                    usd_value: card.usd_value.and_then(|value| value.parse::<f32>().ok()).unwrap_or(0.0),
                 })
                 .collect();
             let template = RootTemplate {

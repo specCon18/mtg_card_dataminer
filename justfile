@@ -1,7 +1,5 @@
 tailwind:
-    export PATH=${pkgs.nodejs_20}/bin:${pkgs.nodePackages_latest.pnpm}/bin:$PATH
-    pnpm dlx tailwindcss -i src/styles/tailwind.css -o assets/main.css --watch
-
+    nix .#tailwind
 dev:
     cargo watch -x 'run test_data/test.json'
 

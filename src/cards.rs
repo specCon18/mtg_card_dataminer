@@ -27,7 +27,7 @@ pub struct CardFromFile {
 pub struct CardForTemplate {
     pub name: String,
     pub count: i32,
-    pub usd_value: String, // No longer an Option
+    pub usd_value: f32, // No longer an Option
 }
 
 
