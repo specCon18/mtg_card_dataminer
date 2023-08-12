@@ -1,5 +1,5 @@
 tailwind:
-    nix .#tailwind
+    nix run .#tailwind
 dev:
     cargo watch -x 'run test_data/test.json'
 
